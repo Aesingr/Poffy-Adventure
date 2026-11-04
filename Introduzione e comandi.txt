@@ -1,0 +1,142 @@
+  INtroduzione
+
+Avviare il gioco con un browser, anche offline. Dopo aver premuto "premi qui per iniziare", quando compare "pronto" mettere NVDA in modalità focus (silenzioso con ins s) o chiuderlo proprio. Il gioco usa il suo tts dedicato. Si può utilizzare un qualunque browser, ma consiglio Microsoft Edge, dove il tts è più veloce e reattivo.
+
+  COMANDI DI GIOCO
+
+freccia su, avanti.
+freccia giu', indietro.
+freccia sinistra e destra, giri su te stesso. se sei agganciato a un nemico, orbiti attorno a lui.
+shift tenuto premuto, corri
+shift piu' freccia sinistra o destra, rotazione istantanea di 90 gradi.
+spazio, salto sul posto.
+spazio piu' freccia su, salto in avanti.
+shift in aria, batti le ali.
+shift piu' freccia avanti in aria, plani lontano. lascia shift per interrompere la planata.
+*per salto e planata, conviene tenere premuto lo spazio finché non si atterra e poi rilasciarlo subito.
+
+1, voce piu' lenta.
+2, voce piu' veloce.
+3, volume voce giu'.
+4, volume voce su.
+5, volume gioco giu'.
+6, volume gioco su.
+7, volume musica giu'.
+8, volume musica su.
+9, nome e descrizione del livello.
+0, apre lo zaino. shift 0, descrive il personaggio piu' vicino.
+
+a, dice l'elemento attuale.
+a più frecce sinistra, destra, su e giù scorre tra gli elementi
+b, ti dice dove ti trovi (la superficie o la piattaforma sotto le zampette).
+c, parla con i png.
+f, interagisci (universale).
+g, ruota verso l'ultimo bersaglio scanzionato (da altri tasti come h, j, y, u,i, o), indicando quanto è distante.
+r, ripete l'ultimo bersaglio scanzionato, aggiornato su distanza e posizione.
+*r è la versione manuale di g. non ruota verso il bersaglio, ma da informazioni aggiuntive.
+h, obiettivo precedente. shift h, oggetto da osservare precedente
+j, obiettivo successivo. shift j, oggetto da osservare successivo.
+i, amico precedente.
+o, amico successivo.
+k, i tuoi punti vita.
+n, piattaforma precedente nello scanner.
+m, piattaforma successiva nello scanner.
+v, scansione distanza: ripete l'ultima piattaforma scansionata se è a portata di salto o planata, aggiornato su distanza e posizione. 
+p, usa il consumabile attivo. shift p, cristalli disponibili
+y, nemico precedente.
+u, nemico successivo.
+q, nemico piu' vicino. shift q, aggancia il nemico piu' vicino.
+*dopo aver agganciato, la funzione delle frecce cambia, orbitando attorno al bersaglio. aggiungendo shift orbita 
+velocemente, necessario per affrontare i boss.
+shift v, sgancia dal nemico agganciato.
+e, attacco base. shift e, attacco volante ad area.
+t, parata. 
+*può essere mantenuta premuta per poco tempo prima di potenziarla alla forgia. 
+w, spara proiettili. shift w, carica un proiettile potente.
+s, guarda avanti (scansione).
+x, guarda a destra (scansione).
+z, guarda a sinistra (scansione).
+*Quando la scanzione di s indica "salto" o "planata", si riferisce al centro della piattaforma scanzionata, non al salto necessario per raggiungerla come fa invece v, che si riferisce al bordo della piattaforma scanzionata.
+shift l, ripete l'eco dell'ultimo dialogo sentito.
+virgola, checkpoint precedente (dove presenti nei livelli sentiero).
+punto, checkpoint successivo (dove presenti nei livelli sentiero), oppure direzione e distanza dal centro.
+shift punto, poggia e recupera un arredo.
+shift d, consegna un piatto cucinato. 
+*nei livelli a nuoto e in volo, virgola annuncia la distanza dal terreno o dalla superficie. c volta verso l'alto, v verso il basso, b rialllinea a dritto, d atterra o riemerge se a massimo 3 metri di distanza da terreno o superficie.
+f7, salva la partita.
+f9, carica la partita.
+
+  ELENCO MISSIONI
+
+la prima scaglia perduta — attiva: dall'inizio del gioco, a Spiaggia Piccola. Completa: raccogliendo la scaglia di zaffiro in cima all'ananasso. (quest principale)
+la conchiglia banana — attiva: parlando col granchietto a Spiaggia Grande. Completa: consegnandogli la conchiglia banana.
+il bagnino in pausa eterna — attiva: Plinio il bagnino a Spiaggia Grande. Completa: portandogli il fischietto.
+la conchiglia canterina — attiva: Nino il paguro a Spiaggia Grande. Completa: consegnandogli la conchiglia canterina.
+il ragno sfuggito — attiva: Vael la cacciatrice a Spiaggia Stellare. Completa: consegnando a Vael la prova del ragno. (quest principale)
+la scatola musicale — attiva: gabbiano arrabbiato a Spiaggia Stellare. Completa: consegnando la scatola musicale.
+il guardiano della secca — attiva: Tritri il granchietto a Spiaggia Stellare. Completa: consegnando la chela del guardiano.
+il marinaio bren — attiva: Bren il tricheco a Spiaggia Stellare. Completa: portando le prime tre scaglie ai ruderi della grande barca.
+le stelle cadute — attiva: stella marina a Spiaggia Stellare. Completa: raccogliendo tutte e 5 le stelle entro il tempo.
+il diario della nonna — attiva: interagendo con l'armadietto nella Casa della Nonna. Completa: forzando il cassetto sigillato.
+la tazzina della nonna — attiva: commesso topolino al Poffy Shop. Completa: portandogli la tazzina suprema.
+lo xilofono del maestro — attiva: Maestro Trillo al Poffy Shop. Completa: riproducendo le melodie allo xilofono.
+il campione di booble fruit — attiva: Bombolo lo sbruffo in Osteria del Gnignu. Completa: finendo tutti i 77 livelli di booble fruit.
+• le ciabatte di groncy — ativa: Groncy in Osteria. completa: portandogli le ciabatte perse nel bosco.
+acchiappa la patatalpa — attiva: Greppo alla Serra. Completa: vincendo il minigioco delle patatalpe a livello medio difficile.
+la caccia di vael — attiva: Vael in osteria. Completa: indagando i 3 avvistamenti. Per tre volte. che noia. Si attivano tutte e tre in osteria. (quest principale, tutte e tre)
+la chiamata di fruh — attiva: Vael in osteria. Completa: raggiungendo la pianura e scegliendo al bivio di partire per le terre dei dissidenti. (quest principale)
+la prova di vael — attiva: Vael in pianura. Completa: ripulendo la pianura dagli impazziti. (quest principale)
+le pecore del pastore — attiva: vecchio pastore in pianura. Completa: sistemando i 3 impazziti mansueti senza ucciderli.
+i due sgambetti — attiva: sgambetto in pianura. Completa: vincendo la corsa fino al fratello entro il tempo.
+gigly digerisce — attiva: la lontra Gigly al Deserto. Completa: dandogli un dattero.
+l'oasi secca — attiva: la pozza prosciugata al Deserto. Completa: versando un'anfora d'acqua.
+il tesoro sotto la sabbia — attiva: "mappa" al Deserto. Completa: scavando tutti e 3 i punti indicati sulla mappa.
+la sfida dei varani — attiva: Rampa il varano alla Terra dei Dissidenti. Completa: battendo Vampa nella gara della foresta e poi Rampa nella pista della risacca. (quest principale)
+il torneo del ring di sale — attiva: Bombarda la canguro al Ring di Sale. Completa: vincendo i 3 incontri fino a Sandro il Mesto. Sandro mio padre. (quest principale)
+lo scontro con sgarra — attiva: Sgarra la poiana alla Soglia della Terza Terra. Completa: battendo Sgarra sul suo ring. (quest principale)
+la fossa delle orde — attiva: Magnus il banditore all'Arena della Gloria. Completa: ripulendo la fossa e raccogliendo la scaglia d'argento. (quest principale)
+il tiro di sciara — attiva: Sciara la salamandra all'Arena. Completa: vincendo il tiro ai bersagli mobili. (quest principale)
+favilla e brace — attiva: Sciara, dopo il tiro. Completa: vincendo il duello contro favilla e brace. (quest principale)
+gli attrezzi di bronzo — attiva: Bronzo nel Viaggio in barca. Completa: recuperando i 3 attrezzi sul ponte. (quest principale)
+i nodi della sartia — attiva: Vael nel Viaggio in barca. Completa: tagliando i 4 nodi intricati. (quest principale)
+la coffa della vedetta — attiva: Groncy nel Viaggio in barca. Completa: salendo alla coffa e suonando la campana. (quest principale)
+la remata a tempo — attiva: Bren nel Viaggio in barca. Completa: remando a tempo per 7 onde di fila. (quest principale)
+le bottiglie dei dissidenti — attiva: Cozza la pentita nel viaggio in barca, dopo la battaglia. Completa: pescando le 5 bottiglie dal ponte. (quest principale)
+nuova conoscenza — attiva: Fruh in spiaggia piccola. completa: vai in biblioteca. (quest principale)
+i libri dei grandi — attiva: ulla, in biblioteca. Completa: leggendo i 3 riassunti dei libri dei grandi, poi facendo una chiacchierata con l'oste in osteria. (quest principale)
+il buco nella torre — attiva: l'oste, dopo aver letto i libri. Completa: scendendo nel buco sotto la Torre dell'Orologio. (quest principale)
+fermare ricu — attiva: Rashasaak, dopo la rivelazione su Ricu. Completa: raggiungendo Spiaggia Stellare per il messaggio dal mare. (quest principale)
+pallavento — attiva: grecale, su isola dei venti. Completa: vincendo la partita di pallavento e sbloccando così la forgia dei venti. (quest principale)
+ripristina l'albero sacro — attiva: kasura, su isola dell'albero sacro. Completa: attivando gli altari con il proiettile di energia, sbloccato alla forgia dell'albero sacro. (quest principale)
+la fine di un viaggio — attiva e completa tramite la scena della dottoressa ranocchia (finale normale). (quest principale)
+
+  CONSIGLI VARI
+
+-Iniziare con calma. E avere pazienza. Poi ci si prende la mano.
+-Dare tempo all'avvio del gioco affinché carichi tutti i suoni prima di caricare una partita. Se no si sovrapppongono le musiche del caricamento con quella attuale e succede il bordello.
+-Iniziare con la scaglia di zaffiro. Fuori dalla casetta, bisogna salire su cespuglio banano, da lì su arancio, da lì su ananasso. Questo pattern funziona per ogni livello. si parte dalle piattaforme più basse e da lì si sale su quelle vicine più alte. Alcune piattaforme musicali, tipo le stelle in spiaggia stellare, non possono essere viste da g. Dare energia alle piante in Spiaggia piccola è utile per alenarsi con i suoni senza l'utilizzo della g, quindi soltanto con r e v.
+-Per saltare e planare, è importante tener premuto il tasto spazio finché non si è sulla nuova piattaforma e poi rilasciare subito. Affidarsi alle scanzioni di v per sapere se è possibile raggiungere il bersaglio.
+-Salvare molto spesso in punti strategici, dopo un salto difficile o se si è vicini a un obbiettivo, come una scaglia o una piattaforma di quelle brutte. Buona fortuna nel Monte innevato.
+-Allenarsi con i salti e il combattimento nel buco sotto al sasso.
+-Muoversi di qualche passo dopo essere arrivati in una nuova zona prima di utilizzare i tasti di scanzione come h, j, i, o eccetera. Altrimenti può capitare che vengano individuati gli interagibili della zona precedente.
+-Adattarsi i volumi a piacimento. A volte quello impostato come standard non è ideale con tutti i dispositivi audio, che potrebbero rafforzare la musica o inibire il tts.
+-Dare retta ai cristalli guida, ma non troppo. Non si sprecano mai con le spiegazioni.
+-Fare scelte da bravo draghetto. Io vi ho avvisati.
+-Trovare modi per barare. Io l'ho fatto.
+-Avere un calendario a portata di mano. Io ce l'ho.
+-Tenere in considerazione che forse ci sono più modi per affrontare il gioco. Non vi dico che a un certo punto potreste aver voglia di ricominciare tutto da capo, ma... io ve l'ho detto.
+
+  RINGRAZIAMENTI
+
+Intanto ringrazio chi ha testato il gioco e mi ha dato suggerimenti, specialmente per le missioni secondarie che io sono troppo pigro per testare. Un ringraziamento speciale a chi ha già finito il gioco. 
+E poi:
+-Grazie al capo dei capi che mi ha montato un paio di livelli, tra cui quel delirio in barca con i cannoni. Il gommone abusivo è roba sua.
+-Grazie alla mia gnignu che ha fatto le vocine di poffy.
+-Grazie al mio collaboratore segreto del discord di Snake eye. Nessuno sa dove trovasse il tempo di testare le build appena uscite, magari solo per consegnare il pesto all'oste in osteria.
+-Grazie a chiunque farà anche solo una partita.
+
+  CABINATO
+
+Nel cabinato ci si può affrontare in vari minigiochi presenti nel gioco. Con f1 si possono leggere i rispettivi comandi all'interno di ogni gioco. per giocare online, l'ost deve creare una partita e inviare il codice agli altri giocatori. Scegliendo il gioco senza che qualcun altro abbia inserito il codice si può giocare offline per allenamento. In dungeons and arena, nello skate park, in pallavento, in cameriere e in patatalpa sfida si può giocare fino a 4 giocatori totali (un ost e tre giocatori ospiti). In booble fruit e ring di sale si può giocare massimo in 2.
+
+Buon gioco!

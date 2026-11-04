@@ -1,0 +1,141 @@
+  INTRODUCTION
+
+Open the game in a browser, even offline. After pressing "click here to start", when "ready" appears, put NVDA in focus mode (or silence it with Insert S), or close it altogether. The game uses its own dedicated text to speech. Any browser works, but I recommend Microsoft Edge, where the speech is faster and more responsive.
+
+  GAME CONTROLS
+
+up arrow, forward.
+down arrow, backward.
+left and right arrows, turn on the spot. If you are locked onto an enemy, you orbit around it.
+shift held down, run.
+shift plus left or right arrow, instant 90 degree turn.
+space, jump on the spot.
+space plus up arrow, jump forward.
+shift in the air, flap your wings.
+shift plus up arrow in the air, glide far. Release shift to stop gliding.
+*for jumps and glides, it's best to hold space down until you land and then release it right away.
+
+1, slower voice.
+2, faster voice.
+3, voice volume down.
+4, voice volume up.
+5, game volume down.
+6, game volume up.
+7, music volume down.
+8, music volume up.
+9, name and description of the level.
+0, opens the backpack. shift 0, describes the nearest character.
+
+a, tells you the current element.
+a plus left, right, up and down arrows scrolls through the elements.
+b, tells you where you are (the surface or platform under your little paws).
+c, talk to characters.
+f, interact (universal).
+g, turns you toward the last scanned target (from other keys such as h, j, y, u, i, o), telling you how far it is.
+r, repeats the last scanned target, updated with distance and position.
+*r is the manual version of g. It doesn't turn you toward the target, but gives extra information.
+h, previous objective. shift h, previous object to observe.
+j, next objective. shift j, next object to observe.
+i, previous friend.
+o, next friend.
+k, your health points.
+n, previous platform in the scanner.
+m, next platform in the scanner.
+v, distance scan: repeats the last scanned platform if it is within jumping or gliding reach, updated with distance and position.
+p, use the active consumable. shift p, available crystals.
+y, previous enemy.
+u, next enemy.
+q, nearest enemy. shift q, lock onto the nearest enemy.
+*after locking on, the arrows change function and orbit around the target. Adding shift orbits quickly, which you need to face the bosses.
+shift v, release the locked enemy.
+e, basic attack. shift e, flying area attack.
+t, parry.
+*it can only be held down for a short time until you upgrade it at the forge.
+w, shoot projectiles. shift w, charge a powerful projectile.
+s, look ahead (scan).
+x, look right (scan).
+z, look left (scan).
+*When the s scan says "jump" or "glide", it refers to the center of the scanned platform, not to the jump needed to reach it, unlike v, which refers to the edge of the scanned platform.
+shift l, repeats the echo of the last dialogue you heard.
+comma, previous checkpoint (where present in path levels).
+period, next checkpoint (where present in path levels), or direction and distance from the center.
+shift period, place and pick up a piece of furniture.
+shift d, deliver a cooked dish.
+*in swimming and flying levels, comma announces the distance from the ground or the surface. c turns upward, v downward, b levels you out, d lands or resurfaces if you are at most 3 meters from the ground or surface.
+f7, save the game.
+f9, load the game.
+
+  QUEST LIST
+
+the first lost scale — active: from the start of the game, at Little Beach. Complete: by collecting the sapphire scale at the top of the pineapple. (main quest)
+the banana shell — active: by talking to the little crab at Big Beach. Complete: by giving him the banana shell.
+the lifeguard on eternal break — active: Plinio the lifeguard at Big Beach. Complete: by bringing him the whistle.
+the singing shell — active: Nino the hermit crab at Big Beach. Complete: by giving him the singing shell.
+the spider that got away — active: Vael the huntress at Starry Beach. Complete: by giving Vael the proof of the spider. (main quest)
+the music box — active: angry seagull at Starry Beach. Complete: by giving him the music box.
+the guardian of the shallows — active: Tritri the little crab at Starry Beach. Complete: by giving him the guardian's claw.
+the sailor bren — active: Bren the walrus at Starry Beach. Complete: by bringing the first three scales to the ruins of the big boat.
+the fallen stars — active: starfish at Starry Beach. Complete: by collecting all 5 stars within the time limit.
+grandma's diary — active: by interacting with the little cabinet in Grandma's House. Complete: by forcing the sealed drawer.
+grandma's little cup — active: the mouse shop assistant at the Poffy Shop. Complete: by bringing him the supreme little cup.
+the master's xylophone — active: Maestro Trillo at the Poffy Shop. Complete: by playing the melodies on the xylophone.
+the booble fruit champion — active: Bombolo the braggart at the Gnignu Tavern. Complete: by finishing all 77 levels of booble fruit.
+groncy's slippers — active: Groncy at the Tavern. Complete: by bringing him the slippers he lost in the woods.
+catch the spudmole — active: Greppo at the Greenhouse. Complete: by winning the spudmole minigame on medium-hard.
+vael's hunt — active: Vael at the tavern. Complete: by investigating the 3 sightings. Three times. How boring. All three start at the tavern. (main quest, all three)
+fruh's call — active: Vael at the tavern. Complete: by reaching the plain and choosing, at the crossroads, to leave for the lands of the dissidents. (main quest)
+vael's trial — active: Vael on the plain. Complete: by clearing the plain of the crazed creatures. (main quest)
+the shepherd's sheep — active: old shepherd on the plain. Complete: by settling the 3 tame crazed creatures without killing them.
+the two sgambettos — active: sgambetto on the plain. Complete: by winning the race to his brother within the time limit.
+gigly digests — active: Gigly the otter in the Desert. Complete: by giving him a date.
+the dry oasis — active: the dried-up pool in the Desert. Complete: by pouring a jar of water.
+the treasure under the sand — active: "map" in the Desert. Complete: by digging up all 3 spots marked on the map.
+the monitor lizards' challenge — active: Rampa the monitor lizard in the Land of the Dissidents. Complete: by beating Vampa in the forest race and then Rampa on the undertow track. (main quest)
+the salt ring tournament — active: Bombarda the kangaroo at the Salt Ring. Complete: by winning the 3 matches up to Sandro the Gloomy. Sandro my father. (main quest)
+the clash with sgarra — active: Sgarra the buzzard at the Threshold of the Third Land. Complete: by beating Sgarra in her ring. (main quest)
+the pit of the hordes — active: Magnus the auctioneer at the Arena of Glory. Complete: by clearing the pit and collecting the silver scale. (main quest)
+sciara's shooting — active: Sciara the salamander at the Arena. Complete: by winning the moving target shooting. (main quest)
+favilla and brace — active: Sciara, after the shooting. Complete: by winning the duel against favilla and brace. (main quest)
+bronzo's tools — active: Bronzo on the Boat Trip. Complete: by recovering the 3 tools on the deck. (main quest)
+the knots of the shroud — active: Vael on the Boat Trip. Complete: by cutting the 4 tangled knots. (main quest)
+the lookout's crow's nest — active: Groncy on the Boat Trip. Complete: by climbing to the crow's nest and ringing the bell. (main quest)
+rowing in time — active: Bren on the Boat Trip. Complete: by rowing in time for 7 waves in a row. (main quest)
+the dissidents' bottles — active: Cozza the repentant on the boat trip, after the battle. Complete: by fishing the 5 bottles from the deck. (main quest)
+a new acquaintance — active: Fruh at Little Beach. Complete: go to the library. (main quest)
+the books of the great ones — active: ulla, in the library. Complete: by reading the 3 summaries of the books of the great ones, then having a chat with the innkeeper at the tavern. (main quest)
+the hole in the tower — active: the innkeeper, after reading the books. Complete: by going down the hole under the Clock Tower. (main quest)
+stop ricu — active: Rashasaak, after the revelation about Ricu. Complete: by reaching Starry Beach for the message from the sea. (main quest)
+windball — active: grecale, on the island of the winds. Complete: by winning the windball match and so unlocking the forge of the winds. (main quest)
+restore the sacred tree — active: kasura, on the island of the sacred tree. Complete: by activating the altars with the energy projectile, unlocked at the forge of the sacred tree. (main quest)
+the end of a journey — becomes active and completes through doctor frog's scene (normal ending). (main quest)
+
+  VARIOUS TIPS
+
+-Start calmly. And be patient. You'll get the hang of it.
+-Give the game time to load all the sounds at startup before loading a game. Otherwise the loading music overlaps with the current one and all hell breaks loose.
+-Start with the sapphire scale. Outside the little house, climb onto the banana bush, from there onto the orange tree, and from there onto the pineapple. This pattern works for every level: you start from the lowest platforms and climb onto the nearby higher ones. Some musical platforms, like the stars on Starry Beach, can't be found with g. Giving energy to the plants on Little Beach is useful for training with the sounds without using g, so only with r and v.
+-To jump and glide, it's important to hold space down until you are on the new platform and then release it right away. Rely on the v scans to know whether you can reach the target.
+-Save very often at strategic points, after a difficult jump or when you are close to a goal, like a scale or one of those nasty platforms. Good luck on the Snowy Mountain.
+-Train your jumps and combat in the hole under the stone.
+-Move a few steps after arriving in a new area before using the scan keys like h, j, i, o and so on. Otherwise you may pick up the interactables of the previous area.
+-Adjust the volumes as you like. Sometimes the default isn't ideal for every audio device, which may boost the music or drown out the speech.
+-Listen to the guide crystals, but not too much. They never waste themselves on explanations.
+-Make good little dragon choices. I warned you.
+-Find ways to cheat. I did.
+-Keep a calendar handy. I have one.
+-Keep in mind that there may be more than one way to approach the game. I'm not saying that at some point you might feel like starting all over again, but... I told you so.
+
+  THANKS
+
+First of all, thanks to everyone who tested the game and gave me suggestions, especially for the side quests that I'm too lazy to test. Special thanks to those who have already finished the game.
+And then:
+-Thanks to the boss of bosses who built a couple of levels for me, including that madness on the boat with the cannons. The unlicensed dinghy is his doing.
+-Thanks to my gnignu, who did Poffy's little voices.
+-Thanks to my secret collaborator from the Snake eye discord. Nobody knows where he found the time to test the builds as soon as they came out, maybe just to deliver the pesto to the innkeeper at the tavern.
+-Thanks to anyone who plays even a single game.
+
+  POFFY ARCADE
+
+In the arcade you can face each other in several minigames from the game. With f1 you can read the controls of each game. To play online, the host creates a match and sends the code to the other players. If you choose a game without anyone else entering the code, you can play offline for practice. In dungeons and arena, the skate park, windball, waiter and spudmole challenge, up to 4 players can play in total (one host and three guests). In booble fruit and salt ring, at most 2 can play.
+
+Have a good game!
