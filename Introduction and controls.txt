@@ -1,6 +1,13 @@
+  POFFY ADVENTURE
+
+Inspired by old-school platformers, Poffy Adventure tells the story of a sweet, cuddly little dragon who one day almost blew up the world. Between islands to explore, skate races on the edge of madness and fights in arenas full of improbable enemies, the young dragon will have to choose whether to live with his greatest mistake or stand firm in his beliefs.
+
+An audiogame that wants to bring back the thrill of gliding between trees and spurs of ice, towards bossfights all about initiative and quick reflexes. From long boat trips to winding snowy climbs, there will be no shortage of funny and bizarre moments. Explore the lands of the dissidents and reunite the peoples divided since the day Poffy made his difficult decision!
+
   INTRODUCTION
 
-Open the game in a browser, even offline, and press any key to start. The game uses its own dedicated voice: in that case put NVDA in focus mode and silence it (Insert S), or close it altogether. Any browser works, but I recommend Microsoft Edge, where the voice is faster and more responsive. Alternatively, with shift 9 you can play with your own screen reader (NVDA): in that case the NVDA option "report dynamic content changes" must be on (NVDA+5).
+Open the game in a browser, even offline, and press any key to start. Then put NVDA in focus mode, with the option "report dynamic content changes" turned on (NVDA+5). Installing the add-on that comes with the game is recommended, for more reliable reading.
+Alternatively, by pressing shift 9 you can play with the Windows voice.
 
   GAME CONTROLS
 
@@ -11,24 +18,9 @@ shift held down, run.
 shift plus left or right arrow, instant 90 degree turn.
 space, jump on the spot.
 space plus up arrow, jump forward.
-shift in the air, flap your wings.
-shift plus up arrow in the air, glide far. Release shift to stop gliding.
+shift plus space plus up arrow, glide far. Release shift to stop gliding.
 *for jumps and glides, it's best to hold space down until you land and then release it right away.
 
-1, slower voice.
-2, faster voice.
-3, voice volume down.
-4, voice volume up.
-5, game volume down.
-6, game volume up.
-7, music volume down.
-8, music volume up.
-9, name and description of the level.
-shift 9, switches between the game voice and your own screen reader (for example NVDA). it also works in the arcade, and the game remembers it. with the screen reader keep NVDA in focus mode; keys 1 to 4 no longer change the voice, which you set in NVDA.
-0, opens the backpack. shift 0, describes the nearest character.
-
-a, tells you the current element.
-a plus left, right, up and down arrows scrolls through the elements.
 b, tells you where you are (the surface or platform under your little paws).
 c, talk to characters.
 f, interact (universal).
@@ -43,6 +35,7 @@ k, your health points.
 n, previous platform in the scanner.
 m, next platform in the scanner.
 v, distance scan: repeats the last scanned platform if it is within jumping or gliding reach, updated with distance and position.
+0, opens the backpack. shift 0, describes the nearest character.
 p, use the active consumable. shift p, available crystals.
 y, previous enemy.
 u, next enemy.
@@ -53,6 +46,8 @@ e, basic attack. shift e, flying area attack.
 t, parry.
 *it can only be held down for a short time until you upgrade it at the forge.
 w, shoot projectiles. shift w, charge a powerful projectile.
+a, tells you the current element.
+a plus left, right, up and down arrows, scrolls through the elements.
 s, look ahead (scan).
 x, look right (scan).
 z, look left (scan).
@@ -62,9 +57,21 @@ comma, previous checkpoint (where present in path levels).
 period, next checkpoint (where present in path levels), or direction and distance from the center.
 shift period, place and pick up a piece of furniture.
 shift d, deliver a cooked dish.
-*in swimming and flying levels, comma announces the distance from the ground or the surface. c turns upward, v downward, b levels you out, d lands or resurfaces if you are at most 3 meters from the ground or surface.
+*in swimming and flying levels, comma announces the distance from the ground or the surface. c turns upward, v downward, b levels you out, d lands or resurfaces if you are at most 4 meters from the ground or surface.
+9, announces the name of the level.
 f7, save the game.
 f9, load the game.
+
+  Voice controls (Windows voice)
+
+1, slower voice.
+2, faster voice.
+3, voice volume down.
+4, voice volume up.
+5, game volume down.
+6, game volume up.
+7, music volume down.
+8, music volume up.
 
   QUEST LIST
 
@@ -137,6 +144,6 @@ And then:
 
   POFFY ARCADE
 
-In the arcade you can face each other in several minigames from the game. With f1 you can read the controls of each game. At startup just press any key: the main menu opens, where left and right arrows choose between offline and online and enter confirms. Offline you choose the game with the arrows and play against the CPU. Online you can create a match or join one: whoever creates the match hears the code letter by letter, C copies it and R repeats it, and sends it to the other players; whoever joins types the code directly in the game (the arrows read back the characters, backspace deletes) and presses enter. Escape always takes you back, up to the main menu. In dungeons and arena, the skate park, windball, waiter and spudmole challenge, up to 4 players can play in total (one host and three guests). In booble fruit and salt ring, at most 2 can play.
+In the arcade you can face each other in several minigames from the game. With f1 you can read the controls of each game. At startup just press any key: the main menu opens, where left and right arrows choose between offline and online and enter confirms. Offline you choose the game with the arrows and play against the CPU. Online you can create a match or join one: whoever creates the match hears the code, C copies it and R repeats it, and sends it to the other players; whoever joins types the code and presses enter. Escape always takes you back, up to the main menu. In dungeons and arena, the skate park, windball, waiter and spudmole challenge, up to 4 players can play in total (one host and three guests). In booble fruit and salt ring, at most 2 can play.
 
 Have a good game!

@@ -1,35 +1,27 @@
+  POFFY ADVENTURE
+
+Ispirato ai platform vecchio stile, Poffy Adventure racconta la storia di un draghetto dolce e coccoloso, che un giorno ha quasi fatto esplodere il mondo. Tra isole da esplorare, gare di skate al limite della follia e scontri in arene piene di nemici improbabili, il giovane drago dovrà scegliere se convivere con il suo più grande errore o rimanere saldo nelle sue convinzioni.
+
+Un audiogame che vuol restituire il brivido di planare tra alberi e speroni di ghiaccio, verso bossfight all'insegna dell'iniziativa e della prontezza di riflessi. Da lunghi viaggi in barca a tortuose scalate innevate, certo non mancheranno momenti divertenti e bizzarri. Esplora le terre dei dissidenti e riunisci i popoli separati dal giorno in cui Poffy prese la sua difficile decisione!
+
   INtroduzione
 
-Avviare il gioco con un browser, anche offline, e premere un tasto qualsiasi per iniziare. Il gioco usa la sua voce dedicata: in quel caso mettere NVDA in modalità focus e silenziarlo (ins s), oppure chiuderlo. Si può utilizzare un qualunque browser, ma consiglio Microsoft Edge, dove la voce è più veloce e reattiva. In alternativa, con shift 9 si può giocare con il proprio screen reader (NVDA): in quel caso l'opzione "annuncia cambiamenti contenuti dinamici" di NVDA deve essere attiva (NVDA+5).
+Avviare il gioco con un browser, anche offline, e premere un tasto qualsiasi per iniziare. Dopo di che mettere NVDA in modalità focus, con l'opzione "annuncia cambiamenti contenuti dinamici" attiva (NVDA+5). È consigliabile installare l'addon allegato al gioco per una lettura più affidabile.
+In alternativa, premendo shift 9 si può giocare con lo screen reader di windows.
 
-  COMANDI DI GIOCO
+  COMANDI DI gioco
 
 freccia su, avanti.
 freccia giu', indietro.
 freccia sinistra e destra, giri su te stesso. se sei agganciato a un nemico, orbiti attorno a lui.
-shift tenuto premuto, corri
+shift tenuto premuto, corsa
 shift piu' freccia sinistra o destra, rotazione istantanea di 90 gradi.
 spazio, salto sul posto.
 spazio piu' freccia su, salto in avanti.
-shift in aria, batti le ali.
-shift piu' freccia avanti in aria, plani lontano. lascia shift per interrompere la planata.
+shift piu' spazio piu' freccia su, plani lontano. lascia shift per interrompere la planata.
 *per salto e planata, conviene tenere premuto lo spazio finché non si atterra e poi rilasciarlo subito.
 
-1, voce piu' lenta.
-2, voce piu' veloce.
-3, volume voce giu'.
-4, volume voce su.
-5, volume gioco giu'.
-6, volume gioco su.
-7, volume musica giu'.
-8, volume musica su.
-9, nome e descrizione del livello.
-shift 9, alterna tra la voce del gioco e il tuo screen reader (per esempio NVDA). funziona anche nel cabinato e il gioco se lo ricorda. con lo screen reader tieni NVDA in modalita' focus; i tasti da 1 a 4 non cambiano piu' la voce, che si regola da NVDA.
-0, apre lo zaino. shift 0, descrive il personaggio piu' vicino.
-
-a, dice l'elemento attuale.
-a più frecce sinistra, destra, su e giù scorre tra gli elementi
-b, ti dice dove ti trovi (la superficie o la piattaforma sotto le zampette).
+b, dice dove ti trovi (la superficie o la piattaforma sotto le zampette).
 c, parla con i png.
 f, interagisci (universale).
 g, ruota verso l'ultimo bersaglio scanzionato (da altri tasti come h, j, y, u,i, o), indicando quanto è distante.
@@ -43,6 +35,7 @@ k, i tuoi punti vita.
 n, piattaforma precedente nello scanner.
 m, piattaforma successiva nello scanner.
 v, scansione distanza: ripete l'ultima piattaforma scansionata se è a portata di salto o planata, aggiornato su distanza e posizione. 
+0, apre lo zaino. shift 0, descrive il personaggio piu' vicino.
 p, usa il consumabile attivo. shift p, cristalli disponibili
 y, nemico precedente.
 u, nemico successivo.
@@ -54,6 +47,8 @@ e, attacco base. shift e, attacco volante ad area.
 t, parata. 
 *può essere mantenuta premuta per poco tempo prima di potenziarla alla forgia. 
 w, spara proiettili. shift w, carica un proiettile potente.
+a, dice l'elemento attuale.
+a più frecce sinistra, destra, su e giù, scorre tra gli elementi
 s, guarda avanti (scansione).
 x, guarda a destra (scansione).
 z, guarda a sinistra (scansione).
@@ -63,9 +58,21 @@ virgola, checkpoint precedente (dove presenti nei livelli sentiero).
 punto, checkpoint successivo (dove presenti nei livelli sentiero), oppure direzione e distanza dal centro.
 shift punto, poggia e recupera un arredo.
 shift d, consegna un piatto cucinato. 
-*nei livelli a nuoto e in volo, virgola annuncia la distanza dal terreno o dalla superficie. c volta verso l'alto, v verso il basso, b rialllinea a dritto, d atterra o riemerge se a massimo 3 metri di distanza da terreno o superficie.
+*nei livelli a nuoto e in volo, virgola annuncia la distanza dal terreno o dalla superficie. c volta verso l'alto, v verso il basso, b rialllinea a dritto, d atterra o riemerge se a massimo 4 metri di distanza da terreno o superficie.
+9, annuncia il nome del livello.
 f7, salva la partita.
 f9, carica la partita.
+
+  Comandi per la voce (windows)
+
+1, voce piu' lenta.
+2, voce piu' veloce.
+3, volume voce giu'.
+4, volume voce su.
+5, volume gioco giu'.
+6, volume gioco su.
+7, volume musica giu'.
+8, volume musica su.
 
   ELENCO MISSIONI
 
@@ -130,14 +137,9 @@ la fine di un viaggio — attiva e completa tramite la scena della dottoressa ra
   RINGRAZIAMENTI
 
 Intanto ringrazio chi ha testato il gioco e mi ha dato suggerimenti, specialmente per le missioni secondarie che io sono troppo pigro per testare. Un ringraziamento speciale a chi ha già finito il gioco. 
-E poi:
--Grazie al capo dei capi che mi ha montato un paio di livelli, tra cui quel delirio in barca con i cannoni. Il gommone abusivo è roba sua.
--Grazie alla mia gnignu che ha fatto le vocine di poffy.
--Grazie al mio collaboratore segreto del discord di Snake eye. Nessuno sa dove trovasse il tempo di testare le build appena uscite, magari solo per consegnare il pesto all'oste in osteria.
--Grazie a chiunque farà anche solo una partita.
 
   CABINATO
 
-Nel cabinato ci si può affrontare in vari minigiochi presenti nel gioco. Con f1 si possono leggere i rispettivi comandi all'interno di ogni gioco. All'avvio basta premere un tasto qualsiasi: si apre il menu principale, dove con le frecce sinistra e destra si sceglie tra offline e online e con invio si conferma. Offline si sceglie il gioco con le frecce e si gioca contro la cpu. Online si può creare una partita o unirsi a una partita: chi crea la partita sente il codice lettera per lettera, con c lo copia e con r lo ripete, e lo manda agli altri giocatori; chi si unisce scrive il codice direttamente nel gioco (le frecce rileggono i caratteri, backspace cancella) e preme invio. Esc riporta sempre indietro fino al menu principale. In dungeons and arena, nello skate park, in pallavento, in cameriere e in patatalpa sfida si può giocare fino a 4 giocatori totali (un ost e tre giocatori ospiti). In booble fruit e ring di sale si può giocare massimo in 2.
+Nel cabinato ci si può affrontare in vari minigiochi presenti nel gioco. Con f1 si possono leggere i rispettivi comandi all'interno di ogni gioco. All'avvio basta premere un tasto qualsiasi: si apre il menu principale, dove con le frecce sinistra e destra si sceglie tra offline e online e con invio si conferma. Offline si sceglie il gioco con le frecce e si gioca contro la cpu. Online si può creare una partita o unirsi a una partita: chi crea la partita sente il codice, con c lo copia e con r lo ripete, e lo manda agli altri giocatori; chi si unisce scrive il codice e preme invio. Esc riporta sempre indietro fino al menu principale. In dungeons and arena, nello skate park, in pallavento, in cameriere e in patatalpa sfida si può giocare fino a 4 giocatori totali (un ost e tre giocatori ospiti). In booble fruit e ring di sale si può giocare massimo in 2.
 
 Buon gioco!
