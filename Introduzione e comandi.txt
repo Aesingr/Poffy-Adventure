@@ -1,6 +1,6 @@
   INtroduzione
 
-Avviare il gioco con un browser, anche offline. Dopo aver premuto "premi qui per iniziare", quando compare "pronto" mettere NVDA in modalità focus (silenzioso con ins s) o chiuderlo proprio. Il gioco usa il suo tts dedicato. Si può utilizzare un qualunque browser, ma consiglio Microsoft Edge, dove il tts è più veloce e reattivo.
+Avviare il gioco con un browser, anche offline, e premere un tasto qualsiasi per iniziare. Il gioco usa la sua voce dedicata: in quel caso mettere NVDA in modalità focus e silenziarlo (ins s), oppure chiuderlo. Si può utilizzare un qualunque browser, ma consiglio Microsoft Edge, dove la voce è più veloce e reattiva. In alternativa, con shift 9 si può giocare con il proprio screen reader (NVDA): in quel caso l'opzione "annuncia cambiamenti contenuti dinamici" di NVDA deve essere attiva (NVDA+5).
 
   COMANDI DI GIOCO
 
@@ -24,6 +24,7 @@ shift piu' freccia avanti in aria, plani lontano. lascia shift per interrompere 
 7, volume musica giu'.
 8, volume musica su.
 9, nome e descrizione del livello.
+shift 9, alterna tra la voce del gioco e il tuo screen reader (per esempio NVDA). funziona anche nel cabinato e il gioco se lo ricorda. con lo screen reader tieni NVDA in modalita' focus; i tasti da 1 a 4 non cambiano piu' la voce, che si regola da NVDA.
 0, apre lo zaino. shift 0, descrive il personaggio piu' vicino.
 
 a, dice l'elemento attuale.
@@ -137,6 +138,6 @@ E poi:
 
   CABINATO
 
-Nel cabinato ci si può affrontare in vari minigiochi presenti nel gioco. Con f1 si possono leggere i rispettivi comandi all'interno di ogni gioco. per giocare online, l'ost deve creare una partita e inviare il codice agli altri giocatori. Scegliendo il gioco senza che qualcun altro abbia inserito il codice si può giocare offline per allenamento. In dungeons and arena, nello skate park, in pallavento, in cameriere e in patatalpa sfida si può giocare fino a 4 giocatori totali (un ost e tre giocatori ospiti). In booble fruit e ring di sale si può giocare massimo in 2.
+Nel cabinato ci si può affrontare in vari minigiochi presenti nel gioco. Con f1 si possono leggere i rispettivi comandi all'interno di ogni gioco. All'avvio basta premere un tasto qualsiasi: si apre il menu principale, dove con le frecce sinistra e destra si sceglie tra offline e online e con invio si conferma. Offline si sceglie il gioco con le frecce e si gioca contro la cpu. Online si può creare una partita o unirsi a una partita: chi crea la partita sente il codice lettera per lettera, con c lo copia e con r lo ripete, e lo manda agli altri giocatori; chi si unisce scrive il codice direttamente nel gioco (le frecce rileggono i caratteri, backspace cancella) e preme invio. Esc riporta sempre indietro fino al menu principale. In dungeons and arena, nello skate park, in pallavento, in cameriere e in patatalpa sfida si può giocare fino a 4 giocatori totali (un ost e tre giocatori ospiti). In booble fruit e ring di sale si può giocare massimo in 2.
 
 Buon gioco!

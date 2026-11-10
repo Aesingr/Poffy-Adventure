@@ -23,12 +23,12 @@ An audiogame designed for blind and visually impaired players: it is played enti
 
 **Italiano**
 1. Apri il gioco in un browser recente su computer (consigliato Microsoft Edge, la voce è più reattiva).
-2. Premi "premi qui per iniziare" e aspetta "pronto": i suoni devono caricarsi.
-3. Metti NVDA in modalità focus (o silenzialo): il gioco ha la sua voce.
+2. Premi un tasto qualsiasi per iniziare e aspetta che i suoni si carichino.
+3. Il gioco ha la sua voce: metti NVDA in modalità focus e silenzialo. Se preferisci giocare con NVDA, premi shift 9 (serve "annuncia cambiamenti contenuti dinamici" attivo, NVDA+5).
 4. Comandi essenziali: frecce per muoverti, spazio per saltare, shift tenuto per correre o planare, F per interagire, C per parlare, E per attaccare, F7 salva, F9 carica. Tutti i comandi sono in [Introduzione e comandi](Introduzione%20e%20comandi.txt).
 
 **English**
 1. Open the game in a recent desktop browser (Microsoft Edge recommended, its voice is more responsive).
-2. Press "click here to start" and wait for "ready": the sounds need to load.
-3. Put NVDA in focus mode (or silence it): the game has its own voice.
+2. Press any key to start and wait for the sounds to load.
+3. The game has its own voice: put NVDA in focus mode and silence it. If you prefer to play with NVDA, press shift 9 ("report dynamic content changes" must be on, NVDA+5).
 4. Essential controls: arrows to move, space to jump, hold shift to run or glide, F to interact, C to talk, E to attack, F7 saves, F9 loads. All controls are in [Introduction and controls](Introduction%20and%20controls.txt).

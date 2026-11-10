@@ -1,6 +1,6 @@
   INTRODUCTION
 
-Open the game in a browser, even offline. After pressing "click here to start", when "ready" appears, put NVDA in focus mode (or silence it with Insert S), or close it altogether. The game uses its own dedicated text to speech. Any browser works, but I recommend Microsoft Edge, where the speech is faster and more responsive.
+Open the game in a browser, even offline, and press any key to start. The game uses its own dedicated voice: in that case put NVDA in focus mode and silence it (Insert S), or close it altogether. Any browser works, but I recommend Microsoft Edge, where the voice is faster and more responsive. Alternatively, with shift 9 you can play with your own screen reader (NVDA): in that case the NVDA option "report dynamic content changes" must be on (NVDA+5).
 
   GAME CONTROLS
 
@@ -24,6 +24,7 @@ shift plus up arrow in the air, glide far. Release shift to stop gliding.
 7, music volume down.
 8, music volume up.
 9, name and description of the level.
+shift 9, switches between the game voice and your own screen reader (for example NVDA). it also works in the arcade, and the game remembers it. with the screen reader keep NVDA in focus mode; keys 1 to 4 no longer change the voice, which you set in NVDA.
 0, opens the backpack. shift 0, describes the nearest character.
 
 a, tells you the current element.
@@ -136,6 +137,6 @@ And then:
 
   POFFY ARCADE
 
-In the arcade you can face each other in several minigames from the game. With f1 you can read the controls of each game. To play online, the host creates a match and sends the code to the other players. If you choose a game without anyone else entering the code, you can play offline for practice. In dungeons and arena, the skate park, windball, waiter and spudmole challenge, up to 4 players can play in total (one host and three guests). In booble fruit and salt ring, at most 2 can play.
+In the arcade you can face each other in several minigames from the game. With f1 you can read the controls of each game. At startup just press any key: the main menu opens, where left and right arrows choose between offline and online and enter confirms. Offline you choose the game with the arrows and play against the CPU. Online you can create a match or join one: whoever creates the match hears the code letter by letter, C copies it and R repeats it, and sends it to the other players; whoever joins types the code directly in the game (the arrows read back the characters, backspace deletes) and presses enter. Escape always takes you back, up to the main menu. In dungeons and arena, the skate park, windball, waiter and spudmole challenge, up to 4 players can play in total (one host and three guests). In booble fruit and salt ring, at most 2 can play.
 
 Have a good game!
