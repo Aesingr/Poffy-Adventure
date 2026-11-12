@@ -6,7 +6,7 @@ An audiogame that wants to bring back the thrill of gliding between trees and sp
 
   INTRODUCTION
 
-Open the game in a browser, even offline, and press any key to start. Then put NVDA in focus mode, with the option "report dynamic content changes" turned on (NVDA+5). Installing the add-on that comes with the game is recommended, for more reliable reading.
+Open the game in a browser, even offline, and press any key to start. Then put NVDA in focus mode, with the option "report dynamic content changes" turned on (NVDA+5). Installing the add-on that comes with the game is recommended, for more reliable reading. Once installed, press Control+Shift+9 to turn it on while playing, and again to turn it off.
 Alternatively, by pressing shift 9 you can play with the Windows voice.
 
   GAME CONTROLS

@@ -6,7 +6,7 @@ Un audiogame che vuol restituire il brivido di planare tra alberi e speroni di g
 
   INtroduzione
 
-Avviare il gioco con un browser, anche offline, e premere un tasto qualsiasi per iniziare. Dopo di che mettere NVDA in modalità focus, con l'opzione "annuncia cambiamenti contenuti dinamici" attiva (NVDA+5). È consigliabile installare l'addon allegato al gioco per una lettura più affidabile.
+Avviare il gioco con un browser, anche offline, e premere un tasto qualsiasi per iniziare. Dopo di che mettere NVDA in modalità focus, con l'opzione "annuncia cambiamenti contenuti dinamici" attiva (NVDA+5). È consigliabile installare l'addon allegato al gioco per una lettura più affidabile. Una volta installato, premere control+shift+9 per attivarlo mentre si gioca, e di nuovo per disattivarlo.
 In alternativa, premendo shift 9 si può giocare con lo screen reader di windows.
 
   COMANDI DI gioco
