@@ -61,6 +61,8 @@ shift d, deliver a cooked dish.
 9, announces the name of the level.
 f7, save the game.
 f9, load the game.
+f7 or f9, then e on the chosen slot, exports the save file.
+f9, then enter on "import a save from file", imports a Poffy Adventure save file.
 
   Voice controls (Windows voice)
 

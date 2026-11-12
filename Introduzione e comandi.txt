@@ -62,6 +62,8 @@ shift d, consegna un piatto cucinato.
 9, annuncia il nome del livello.
 f7, salva la partita.
 f9, carica la partita.
+f7 o f9, poi e sullo slot scelto, esporta il file di salvataggio.
+f9, poi invio su "importa un salvataggio da file", importa un file di salvataggio di poffy adventure.
 
   Comandi per la voce (windows)
 
