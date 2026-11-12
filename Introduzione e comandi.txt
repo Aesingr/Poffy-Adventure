@@ -40,8 +40,7 @@ p, usa il consumabile attivo. shift p, cristalli disponibili
 y, nemico precedente.
 u, nemico successivo.
 q, nemico piu' vicino. shift q, aggancia il nemico piu' vicino.
-*dopo aver agganciato, la funzione delle frecce cambia, orbitando attorno al bersaglio. aggiungendo shift orbita 
-velocemente, necessario per affrontare i boss.
+*dopo aver agganciato, la funzione delle frecce cambia, orbitando attorno al bersaglio. aggiungendo shift orbita velocemente, necessario per affrontare i boss.
 shift v, sgancia dal nemico agganciato.
 e, attacco base. shift e, attacco volante ad area.
 t, parata. 
@@ -62,8 +61,7 @@ shift d, consegna un piatto cucinato.
 9, annuncia il nome del livello.
 f7, salva la partita.
 f9, carica la partita.
-f7 o f9, poi e sullo slot scelto, esporta il file di salvataggio.
-f9, poi invio su "importa un salvataggio da file", importa un file di salvataggio di poffy adventure.
+e (sullo slot scelto), esporta il file di salvataggio (può essere importato in qualunque partita di Poffy Adventure).
 
   Comandi per la voce (windows)
 
@@ -129,7 +127,6 @@ la fine di un viaggio — attiva e completa tramite la scena della dottoressa ra
 -Salvare molto spesso in punti strategici, dopo un salto difficile o se si è vicini a un obbiettivo, come una scaglia o una piattaforma di quelle brutte. Buona fortuna nel Monte innevato.
 -Allenarsi con i salti e il combattimento nel buco sotto al sasso.
 -Muoversi di qualche passo dopo essere arrivati in una nuova zona prima di utilizzare i tasti di scanzione come h, j, i, o eccetera. Altrimenti può capitare che vengano individuati gli interagibili della zona precedente.
--Adattarsi i volumi a piacimento. A volte quello impostato come standard non è ideale con tutti i dispositivi audio, che potrebbero rafforzare la musica o inibire il tts.
 -Dare retta ai cristalli guida, ma non troppo. Non si sprecano mai con le spiegazioni.
 -Fare scelte da bravo draghetto. Io vi ho avvisati.
 -Trovare modi per barare. Io l'ho fatto.
@@ -138,10 +135,11 @@ la fine di un viaggio — attiva e completa tramite la scena della dottoressa ra
 
   RINGRAZIAMENTI
 
-Intanto ringrazio chi ha testato il gioco e mi ha dato suggerimenti, specialmente per le missioni secondarie che io sono troppo pigro per testare. Un ringraziamento speciale a chi ha già finito il gioco. 
+Ringrazio chi ha testato il gioco e mi ha dato suggerimenti, specialmente per le missioni secondarie che io sono troppo pigro per completare. Un ringraziamento speciale a chi ha già finito il gioco. 
 
   CABINATO
 
-Nel cabinato ci si può affrontare in vari minigiochi presenti nel gioco. Con f1 si possono leggere i rispettivi comandi all'interno di ogni gioco. All'avvio basta premere un tasto qualsiasi: si apre il menu principale, dove con le frecce sinistra e destra si sceglie tra offline e online e con invio si conferma. Offline si sceglie il gioco con le frecce e si gioca contro la cpu. Online si può creare una partita o unirsi a una partita: chi crea la partita sente il codice, con c lo copia e con r lo ripete, e lo manda agli altri giocatori; chi si unisce scrive il codice e preme invio. Esc riporta sempre indietro fino al menu principale. In dungeons and arena, nello skate park, in pallavento, in cameriere e in patatalpa sfida si può giocare fino a 4 giocatori totali (un ost e tre giocatori ospiti). In booble fruit e ring di sale si può giocare massimo in 2.
+Nel cabinato ci si può affrontare in vari minigiochi presenti nel gioco. Con f1 si possono leggere i rispettivi comandi all'interno di ogni gioco. All'avvio basta premere un tasto qualsiasi: si apre il menu principale, dove con le frecce sinistra e destra si sceglie tra offline e online e con invio si conferma. Offline si sceglie il gioco con le frecce e si gioca contro la cpu. Online si può creare una partita o unirsi a una partita: chi crea la partita sente il codice e può mandarlo agli altri giocatori; chi si unisce scrive il codice e preme invio. Esc riporta sempre indietro fino al menu principale. In dungeons and arena, nello skate park, in pallavento, in cameriere e in patatalpa sfida si può giocare fino a 4 giocatori totali (un ost e tre giocatori ospiti). In booble fruit e ring di sale si può giocare massimo in 2.
+Alcune versioni dei giochi sono migliorate rispetto a quelle di Poffy Adventure. Pallavento duello permette di giocare in tempo reale contro un altro giocatore, il ring permette di selezionare vari personaggi con le rispettive mosse speciali e acchiappa la patatalpa ha una modalità inedita!
 
-Buon gioco!
+Buon gioco

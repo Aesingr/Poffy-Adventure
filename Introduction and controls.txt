@@ -61,8 +61,7 @@ shift d, deliver a cooked dish.
 9, announces the name of the level.
 f7, save the game.
 f9, load the game.
-f7 or f9, then e on the chosen slot, exports the save file.
-f9, then enter on "import a save from file", imports a Poffy Adventure save file.
+e (on the chosen slot), exports the save file (it can be imported into any Poffy Adventure game).
 
   Voice controls (Windows voice)
 
@@ -128,7 +127,6 @@ the end of a journey — becomes active and completes through doctor frog's scen
 -Save very often at strategic points, after a difficult jump or when you are close to a goal, like a scale or one of those nasty platforms. Good luck on the Snowy Mountain.
 -Train your jumps and combat in the hole under the stone.
 -Move a few steps after arriving in a new area before using the scan keys like h, j, i, o and so on. Otherwise you may pick up the interactables of the previous area.
--Adjust the volumes as you like. Sometimes the default isn't ideal for every audio device, which may boost the music or drown out the speech.
 -Listen to the guide crystals, but not too much. They never waste themselves on explanations.
 -Make good little dragon choices. I warned you.
 -Find ways to cheat. I did.
@@ -137,7 +135,7 @@ the end of a journey — becomes active and completes through doctor frog's scen
 
   THANKS
 
-First of all, thanks to everyone who tested the game and gave me suggestions, especially for the side quests that I'm too lazy to test. Special thanks to those who have already finished the game.
+I thank everyone who tested the game and gave me suggestions, especially for the side quests that I'm too lazy to complete. Special thanks to those who have already finished the game.
 And then:
 -Thanks to the boss of bosses who built a couple of levels for me, including that madness on the boat with the cannons. The unlicensed dinghy is his doing.
 -Thanks to my gnignu, who did Poffy's little voices.
@@ -146,6 +144,7 @@ And then:
 
   POFFY ARCADE
 
-In the arcade you can face each other in several minigames from the game. With f1 you can read the controls of each game. At startup just press any key: the main menu opens, where left and right arrows choose between offline and online and enter confirms. Offline you choose the game with the arrows and play against the CPU. Online you can create a match or join one: whoever creates the match hears the code, C copies it and R repeats it, and sends it to the other players; whoever joins types the code and presses enter. Escape always takes you back, up to the main menu. In dungeons and arena, the skate park, windball, waiter and spudmole challenge, up to 4 players can play in total (one host and three guests). In booble fruit and salt ring, at most 2 can play.
+In the arcade you can face each other in several minigames from the game. With f1 you can read the controls of each game. At startup just press any key: the main menu opens, where left and right arrows choose between offline and online and enter confirms. Offline you choose the game with the arrows and play against the CPU. Online you can create a match or join one: whoever creates the match hears the code and can send it to the other players; whoever joins types the code and presses enter. Escape always takes you back, up to the main menu. In dungeons and arena, the skate park, windball, waiter and spudmole challenge, up to 4 players can play in total (one host and three guests). In booble fruit and salt ring, at most 2 can play.
+Some versions of the games are improved compared to those in Poffy Adventure. Windball duel lets you play in real time against another player, the salt ring lets you choose between several characters with their own special moves, and catch the spudmole has a brand new mode!
 
-Have a good game!
+Have a good game
