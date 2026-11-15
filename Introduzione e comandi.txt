@@ -9,70 +9,116 @@ Un audiogame che vuol restituire il brivido di planare tra alberi e speroni di g
 Avviare il gioco con un browser, anche offline, e premere un tasto qualsiasi per iniziare. Dopo di che mettere NVDA in modalità focus, con l'opzione "annuncia cambiamenti contenuti dinamici" attiva (NVDA+5). È consigliabile installare l'addon allegato al gioco per una lettura più affidabile. Una volta installato, premere control+shift+9 per attivarlo mentre si gioca, e di nuovo per disattivarlo.
 In alternativa, premendo shift 9 si può giocare con lo screen reader di windows.
 
-  COMANDI DI gioco
+  COMANDI DI GIOCO
 
-freccia su, avanti.
-freccia giu', indietro.
-freccia sinistra e destra, giri su te stesso. se sei agganciato a un nemico, orbiti attorno a lui.
-shift tenuto premuto, corsa
-shift piu' freccia sinistra o destra, rotazione istantanea di 90 gradi.
+I comandi nel gioco si scoprono attraverso i cristalli guida. Si possono rileggere dallo zaino, nel diario, alla voce "guida ai comandi": premendo invio su un comando, puoi cambiarne il tasto. L'ultima voce della guida riporta tutti i tasti come in origine.
+I comandi dei minigiochi e dei boss si trovano nei cristalli guida sparsi nel gioco, prima di ogni sfida.
+
+  Movimento
+
+freccia su, cammini avanti.
+freccia giù, cammini indietro.
+freccia sinistra, giri verso sinistra.
+freccia destra, giri verso destra.
+shift tenuto premuto, corri.
+shift più freccia sinistra o destra, ti giri di 90 gradi.
+B, ascolti dove ti trovi (la superficie o la piattaforma sotto le zampette).
+0, apri lo zaino.
+9, nome del livello.
+
+  Scansione
+
+gli interagibili vanno dal più vicino al più lontano.
+H, interagibile precedente.
+J, interagibile successivo.
+shift H, oggetto da osservare precedente.
+shift J, oggetto da osservare successivo.
+I, amico precedente.
+O, amico successivo.
+G, ti giri verso l'ultimo bersaglio scansionato, indicando quanto è distante.
+R, ripete la posizione dell'ultimo bersaglio scansionato, aggiornata su distanza e direzione. R è la versione manuale di G: non ti gira, ma ti dà più informazioni.
+F, interagisci.
+C, dialoghi con i personaggi.
+L, ripete l'ultimo dialogo sentito.
+shift 0, descrizione del personaggio più vicino.
+shift P, i tuoi cristalli trasparenti.
+
+  Piattaforme
+
+N, piattaforma precedente.
+M, piattaforma successiva.
+V, dice se l'ultima piattaforma scansionata è raggiungibile con un salto, una planata o una semiplanata. si riferisce al bordo della piattaforma.
+S, guardi avanti.
+X, guardi a destra.
+Z, guardi a sinistra.
+quando S, X e Z dicono "salto" o "planata", si riferiscono al centro della piattaforma, non al bordo come V.
+virgola, checkpoint precedente (nei livelli sentiero).
+punto, checkpoint successivo (nei livelli sentiero), oppure la tua posizione rispetto al centro del livello se non ci sono checkpoint.
+un tic tic basso indica che subito alle tue spalle c'è il bordo della piattaforma, un tic tic alto che il bordo è subito davanti a te.
+
+  Salti e planate
+
 spazio, salto sul posto.
-spazio piu' freccia su, salto in avanti.
-shift piu' spazio piu' freccia su, plani lontano. lascia shift per interrompere la planata.
-*per salto e planata, conviene tenere premuto lo spazio finché non si atterra e poi rilasciarlo subito.
+spazio più freccia su, salto in avanti.
+aggiungi shift per battere le ali.
+tieni premuto shift prima di saltare in avanti per planare lontano.
+lascia shift per interrompere la planata a mezz'aria.
+freccia giù, scendi più a picco (meglio di no).
+per salti e planate conviene tenere premuto spazio finché non atterri, poi rilasciarlo subito.
+più una piattaforma è alta, meno distanza serve per arrivarci: parti dalle più basse, di solito a 1 metro o meno, e sali su quelle vicine più alte.
 
-b, dice dove ti trovi (la superficie o la piattaforma sotto le zampette).
-c, parla con i png.
-f, interagisci (universale).
-g, ruota verso l'ultimo bersaglio scanzionato (da altri tasti come h, j, y, u,i, o), indicando quanto è distante.
-r, ripete l'ultimo bersaglio scanzionato, aggiornato su distanza e posizione.
-*r è la versione manuale di g. non ruota verso il bersaglio, ma da informazioni aggiuntive.
-h, obiettivo precedente. shift h, oggetto da osservare precedente
-j, obiettivo successivo. shift j, oggetto da osservare successivo.
-i, amico precedente.
-o, amico successivo.
-k, i tuoi punti vita.
-n, piattaforma precedente nello scanner.
-m, piattaforma successiva nello scanner.
-v, scansione distanza: ripete l'ultima piattaforma scansionata se è a portata di salto o planata, aggiornato su distanza e posizione. 
-0, apre lo zaino. shift 0, descrive il personaggio piu' vicino.
-p, usa il consumabile attivo. shift p, cristalli disponibili
-y, nemico precedente.
-u, nemico successivo.
-q, nemico piu' vicino. shift q, aggancia il nemico piu' vicino.
-*dopo aver agganciato, la funzione delle frecce cambia, orbitando attorno al bersaglio. aggiungendo shift orbita velocemente, necessario per affrontare i boss.
-shift v, sgancia dal nemico agganciato.
-e, attacco base. shift e, attacco volante ad area.
-t, parata. 
-*può essere mantenuta premuta per poco tempo prima di potenziarla alla forgia. 
-w, spara proiettili. shift w, carica un proiettile potente.
-a, dice l'elemento attuale.
-a più frecce sinistra, destra, su e giù, scorre tra gli elementi
-s, guarda avanti (scansione).
-x, guarda a destra (scansione).
-z, guarda a sinistra (scansione).
-*Quando la scanzione di s indica "salto" o "planata", si riferisce al centro della piattaforma scanzionata, non al salto necessario per raggiungerla come fa invece v, che si riferisce al bordo della piattaforma scanzionata.
-shift l, ripete l'eco dell'ultimo dialogo sentito.
-virgola, checkpoint precedente (dove presenti nei livelli sentiero).
-punto, checkpoint successivo (dove presenti nei livelli sentiero), oppure direzione e distanza dal centro.
-shift punto, poggia e recupera un arredo.
-shift d, consegna un piatto cucinato. 
-*nei livelli a nuoto e in volo, virgola annuncia la distanza dal terreno o dalla superficie. c volta verso l'alto, v verso il basso, b rialllinea a dritto, d atterra o riemerge se a massimo 4 metri di distanza da terreno o superficie.
-9, annuncia il nome del livello.
-f7, salva la partita.
-f9, carica la partita.
-e (sullo slot scelto), esporta il file di salvataggio (può essere importato in qualunque partita di Poffy Adventure).
+  Combattimento
 
-  Comandi per la voce (windows)
+E, attacco base.
+shift E, attacco volante ad area.
+T, parata (1 secondo, si potenzia alla forgia).
+Q, nemico più vicino.
+shift Q, agganci il nemico più vicino.
+shift V, sganci.
+una volta agganciato, le frecce sinistra e destra ti fanno girare attorno al nemico. con shift giri più veloce, indispensabile con i boss.
+Y, nemico precedente.
+U, nemico successivo.
+W, proiettili.
+shift W, proiettile caricato.
+A, elemento principale (fuoco), quando avrai i proiettili elementali.
+A più frecce, scorri gli altri elementi.
+K, i tuoi punti vita.
+P, usi il consumabile attivo.
 
-1, voce piu' lenta.
-2, voce piu' veloce.
-3, volume voce giu'.
+  Salvataggio
+
+F7, salva la partita.
+F9, carica la partita.
+E, sullo slot scelto, esporti il file di salvataggio (si può importare in qualunque partita di Poffy Adventure).
+
+  Voce e volume
+
+shift 9, passi alla voce di Windows (o torni allo screen reader).
+control più shift più 9, attiva e disattiva l'addon di NVDA.
+1, voce più lenta.
+2, voce più veloce.
+3, volume voce giù.
 4, volume voce su.
-5, volume gioco giu'.
+I comandi 1, 2, 3 e 4 non funzionano con NVDA attivo.
+5, volume gioco giù.
 6, volume gioco su.
-7, volume musica giu'.
+7, volume musica giù.
 8, volume musica su.
+
+  CONSIGLI VARI
+
+-Iniziare con calma. E avere pazienza. Poi ci si prende la mano.
+-Dare tempo all'avvio del gioco affinché carichi tutti i suoni prima di caricare una partita. Se no si sovrapppongono le musiche del caricamento con quella attuale e succede un disastro. Consiglio di giocare il gioco online per un miglior audio 3d dei suoni.
+-Iniziare con la scaglia di zaffiro. Fuori dalla casetta, bisogna salire su cespuglio banano, da lì su arancio, da lì su ananasso. Questo pattern funziona per ogni livello. si parte dalle piattaforme più basse e da lì si sale su quelle vicine più alte. Alcune piattaforme musicali, tipo le stelle in spiaggia stellare, non possono essere viste da g. Dare energia alle piante in Spiaggia piccola è utile per alenarsi con i suoni senza l'utilizzo della g, quindi soltanto con r e v.
+-Allenarsi con i salti e il combattimento nel buco sotto al sasso.
+-Per saltare e planare, è importante tener premuto il tasto spazio finché non si è sulla nuova piattaforma e poi rilasciare subito. Affidarsi alle scansioni di v per sapere se è possibile raggiungere il bersaglio.
+-Salvare molto spesso in punti strategici, dopo un salto difficile o se si è vicini a un obbiettivo, come una scaglia o una piattaforma brutta e cattiva. Buona fortuna nel Monte innevato!
+-Muoversi di qualche passo dopo essere arrivati in una nuova zona prima di utilizzare i tasti di scansione come h, j, i, o eccetera. Altrimenti può capitare che vengano individuati gli interagibili della zona precedente.
+-Dare retta ai cristalli guida, ma non troppo. Non si sprecano mai con le spiegazioni.
+-Fare scelte da bravo draghetto. Io vi ho avvisati.
+-Trovare modi per barare. Io l'ho fatto.
+-Avere un calendario a portata di mano. Io ce l'ho.
+-Tenere in considerazione che forse ci sono più modi per affrontare il gioco. Non vi dico che a un certo punto potreste aver voglia di ricominciare tutto da capo, ma... io ve l'ho detto.
 
   ELENCO MISSIONI
 
@@ -91,7 +137,7 @@ lo xilofono del maestro — attiva: Maestro Trillo al Poffy Shop. Completa: ripr
 il campione di booble fruit — attiva: Bombolo lo sbruffo in Osteria del Gnignu. Completa: finendo tutti i 77 livelli di booble fruit.
 • le ciabatte di groncy — ativa: Groncy in Osteria. completa: portandogli le ciabatte perse nel bosco.
 acchiappa la patatalpa — attiva: Greppo alla Serra. Completa: vincendo il minigioco delle patatalpe a livello medio difficile.
-la caccia di vael — attiva: Vael in osteria. Completa: indagando i 3 avvistamenti. Per tre volte. che noia. Si attivano tutte e tre in osteria. (quest principale, tutte e tre)
+la caccia di vael — attiva: Vael in osteria. Completa: indagando i 3 avvistamenti. Per tre volte. che noia. Si attivano una dopo l'altra in osteria. (quest principale, tutte e tre)
 la chiamata di fruh — attiva: Vael in osteria. Completa: raggiungendo la pianura e scegliendo al bivio di partire per le terre dei dissidenti. (quest principale)
 la prova di vael — attiva: Vael in pianura. Completa: ripulendo la pianura dagli impazziti. (quest principale)
 le pecore del pastore — attiva: vecchio pastore in pianura. Completa: sistemando i 3 impazziti mansueti senza ucciderli.
@@ -118,24 +164,9 @@ pallavento — attiva: grecale, su isola dei venti. Completa: vincendo la partit
 ripristina l'albero sacro — attiva: kasura, su isola dell'albero sacro. Completa: attivando gli altari con il proiettile di energia, sbloccato alla forgia dell'albero sacro. (quest principale)
 la fine di un viaggio — attiva e completa tramite la scena della dottoressa ranocchia (finale normale). (quest principale)
 
-  CONSIGLI VARI
-
--Iniziare con calma. E avere pazienza. Poi ci si prende la mano.
--Dare tempo all'avvio del gioco affinché carichi tutti i suoni prima di caricare una partita. Se no si sovrapppongono le musiche del caricamento con quella attuale e succede il bordello.
--Iniziare con la scaglia di zaffiro. Fuori dalla casetta, bisogna salire su cespuglio banano, da lì su arancio, da lì su ananasso. Questo pattern funziona per ogni livello. si parte dalle piattaforme più basse e da lì si sale su quelle vicine più alte. Alcune piattaforme musicali, tipo le stelle in spiaggia stellare, non possono essere viste da g. Dare energia alle piante in Spiaggia piccola è utile per alenarsi con i suoni senza l'utilizzo della g, quindi soltanto con r e v.
--Per saltare e planare, è importante tener premuto il tasto spazio finché non si è sulla nuova piattaforma e poi rilasciare subito. Affidarsi alle scanzioni di v per sapere se è possibile raggiungere il bersaglio.
--Salvare molto spesso in punti strategici, dopo un salto difficile o se si è vicini a un obbiettivo, come una scaglia o una piattaforma di quelle brutte. Buona fortuna nel Monte innevato.
--Allenarsi con i salti e il combattimento nel buco sotto al sasso.
--Muoversi di qualche passo dopo essere arrivati in una nuova zona prima di utilizzare i tasti di scanzione come h, j, i, o eccetera. Altrimenti può capitare che vengano individuati gli interagibili della zona precedente.
--Dare retta ai cristalli guida, ma non troppo. Non si sprecano mai con le spiegazioni.
--Fare scelte da bravo draghetto. Io vi ho avvisati.
--Trovare modi per barare. Io l'ho fatto.
--Avere un calendario a portata di mano. Io ce l'ho.
--Tenere in considerazione che forse ci sono più modi per affrontare il gioco. Non vi dico che a un certo punto potreste aver voglia di ricominciare tutto da capo, ma... io ve l'ho detto.
-
   RINGRAZIAMENTI
 
-Ringrazio chi ha testato il gioco e mi ha dato suggerimenti, specialmente per le missioni secondarie che io sono troppo pigro per completare. Un ringraziamento speciale a chi ha già finito il gioco. 
+Ringrazio chi ha testato il gioco e mi ha dato suggerimenti, specialmente per le missioni secondarie che io sono troppo pigro per completare. Un ringraziamento speciale a chi ha già finito il gioco. E un grazie alla mia ragazza per la voce carina di Poffy. 
 
   CABINATO
 

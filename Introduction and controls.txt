@@ -11,64 +11,95 @@ Alternatively, by pressing shift 9 you can play with the Windows voice.
 
   GAME CONTROLS
 
-up arrow, forward.
-down arrow, backward.
-left and right arrows, turn on the spot. If you are locked onto an enemy, you orbit around it.
+In the game you discover the controls through the guide crystals. You can read them again from the backpack, in the diary, under "controls guide": pressing enter on a control lets you change its key. The last item of the guide puts all keys back to the original ones.
+The controls of the minigames and bosses are in the guide crystals scattered around the game, before each challenge.
+
+  Movement
+
+up arrow, walk forward.
+down arrow, walk backward.
+left arrow, turn left.
+right arrow, turn right.
 shift held down, run.
-shift plus left or right arrow, instant 90 degree turn.
+shift plus left or right arrow, turn 90 degrees.
+B, hear where you are (the surface or platform under your little paws).
+0, open the backpack.
+9, name of the level.
+
+  Scanning
+
+interactables go from nearest to farthest.
+H, previous interactable.
+J, next interactable.
+shift H, previous object to observe.
+shift J, next object to observe.
+I, previous friend.
+O, next friend.
+G, turn toward the last scanned target, telling you how far it is.
+R, repeats the position of the last scanned target, updated with distance and direction. R is the manual version of G: it doesn't turn you, but it gives you more information.
+F, interact.
+C, talk to the characters.
+L, repeats the last dialogue you heard.
+shift 0, description of the nearest character.
+shift P, your clear crystals.
+
+  Platforms
+
+N, previous platform.
+M, next platform.
+V, tells you whether the last scanned platform can be reached with a jump, a glide or a half glide. it refers to the edge of the platform.
+S, look ahead.
+X, look right.
+Z, look left.
+when S, X and Z say "jump" or "glide", they refer to the center of the platform, not to the edge like V.
+comma, previous checkpoint (in path levels).
+period, next checkpoint (in path levels), or your position relative to the center of the level if there are no checkpoints.
+a low tick tick means the edge of the platform is right behind you, a high tick tick means the edge is right in front of you.
+
+  Jumps and glides
+
 space, jump on the spot.
 space plus up arrow, jump forward.
-shift plus space plus up arrow, glide far. Release shift to stop gliding.
-*for jumps and glides, it's best to hold space down until you land and then release it right away.
+add shift to flap your wings.
+hold shift before jumping forward to glide far.
+release shift to stop the glide in mid-air.
+down arrow, drop down more steeply (better not).
+for jumps and glides it's best to hold space down until you land, then release it right away.
+the higher a platform is, the less distance you need to reach it: start from the lowest ones, usually 1 meter or less, and climb onto the nearby higher ones.
 
-b, tells you where you are (the surface or platform under your little paws).
-c, talk to characters.
-f, interact (universal).
-g, turns you toward the last scanned target (from other keys such as h, j, y, u, i, o), telling you how far it is.
-r, repeats the last scanned target, updated with distance and position.
-*r is the manual version of g. It doesn't turn you toward the target, but gives extra information.
-h, previous objective. shift h, previous object to observe.
-j, next objective. shift j, next object to observe.
-i, previous friend.
-o, next friend.
-k, your health points.
-n, previous platform in the scanner.
-m, next platform in the scanner.
-v, distance scan: repeats the last scanned platform if it is within jumping or gliding reach, updated with distance and position.
-0, opens the backpack. shift 0, describes the nearest character.
-p, use the active consumable. shift p, available crystals.
-y, previous enemy.
-u, next enemy.
-q, nearest enemy. shift q, lock onto the nearest enemy.
-*after locking on, the arrows change function and orbit around the target. Adding shift orbits quickly, which you need to face the bosses.
-shift v, release the locked enemy.
-e, basic attack. shift e, flying area attack.
-t, parry.
-*it can only be held down for a short time until you upgrade it at the forge.
-w, shoot projectiles. shift w, charge a powerful projectile.
-a, tells you the current element.
-a plus left, right, up and down arrows, scrolls through the elements.
-s, look ahead (scan).
-x, look right (scan).
-z, look left (scan).
-*When the s scan says "jump" or "glide", it refers to the center of the scanned platform, not to the jump needed to reach it, unlike v, which refers to the edge of the scanned platform.
-shift l, repeats the echo of the last dialogue you heard.
-comma, previous checkpoint (where present in path levels).
-period, next checkpoint (where present in path levels), or direction and distance from the center.
-shift period, place and pick up a piece of furniture.
-shift d, deliver a cooked dish.
-*in swimming and flying levels, comma announces the distance from the ground or the surface. c turns upward, v downward, b levels you out, d lands or resurfaces if you are at most 4 meters from the ground or surface.
-9, announces the name of the level.
-f7, save the game.
-f9, load the game.
-e (on the chosen slot), exports the save file (it can be imported into any Poffy Adventure game).
+  Combat
 
-  Voice controls (Windows voice)
+E, basic attack.
+shift E, flying area attack.
+T, parry (1 second, it gets stronger at the forge).
+Q, nearest enemy.
+shift Q, lock on to the nearest enemy.
+shift V, unlock.
+once locked on, the left and right arrows make you circle around the enemy. with shift you circle faster, essential against bosses.
+Y, previous enemy.
+U, next enemy.
+W, projectiles.
+shift W, charged projectile.
+A, main element (fire), once you have elemental projectiles.
+A plus arrows, scroll through the other elements.
+K, your health points.
+P, use the active consumable.
 
+  Saving
+
+F7, save the game.
+F9, load the game.
+E, on the chosen slot, export the save file (it can be imported into any Poffy Adventure game).
+
+  Voice and volume
+
+shift 9, switch to the Windows voice (or back to the screen reader).
+control plus shift plus 9, turn the NVDA add-on on and off.
 1, slower voice.
 2, faster voice.
 3, voice volume down.
 4, voice volume up.
+Keys 1, 2, 3 and 4 don't work while NVDA is active.
 5, game volume down.
 6, game volume up.
 7, music volume down.
@@ -121,11 +152,11 @@ the end of a journey — becomes active and completes through doctor frog's scen
   VARIOUS TIPS
 
 -Start calmly. And be patient. You'll get the hang of it.
--Give the game time to load all the sounds at startup before loading a game. Otherwise the loading music overlaps with the current one and all hell breaks loose.
+-Give the game time to load all the sounds at startup before loading a game. Otherwise the loading music overlaps with the current one and it's a disaster. I recommend playing the online version for better 3D audio.
 -Start with the sapphire scale. Outside the little house, climb onto the banana bush, from there onto the orange tree, and from there onto the pineapple. This pattern works for every level: you start from the lowest platforms and climb onto the nearby higher ones. Some musical platforms, like the stars on Starry Beach, can't be found with g. Giving energy to the plants on Little Beach is useful for training with the sounds without using g, so only with r and v.
--To jump and glide, it's important to hold space down until you are on the new platform and then release it right away. Rely on the v scans to know whether you can reach the target.
--Save very often at strategic points, after a difficult jump or when you are close to a goal, like a scale or one of those nasty platforms. Good luck on the Snowy Mountain.
 -Train your jumps and combat in the hole under the stone.
+-To jump and glide, it's important to hold space down until you are on the new platform and then release it right away. Rely on the v scans to know whether you can reach the target.
+-Save very often at strategic points, after a difficult jump or when you are close to a goal, like a scale or a nasty, mean platform. Good luck on the Snowy Mountain!
 -Move a few steps after arriving in a new area before using the scan keys like h, j, i, o and so on. Otherwise you may pick up the interactables of the previous area.
 -Listen to the guide crystals, but not too much. They never waste themselves on explanations.
 -Make good little dragon choices. I warned you.
