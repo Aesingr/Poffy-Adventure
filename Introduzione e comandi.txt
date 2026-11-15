@@ -13,87 +13,88 @@ In alternativa, premendo shift 9 si può giocare con lo screen reader di windows
 
 I comandi nel gioco si scoprono attraverso i cristalli guida. Si possono rileggere dallo zaino, nel diario, alla voce "guida ai comandi": premendo invio su un comando, puoi cambiarne il tasto. L'ultima voce della guida riporta tutti i tasti come in origine.
 I comandi dei minigiochi e dei boss si trovano nei cristalli guida sparsi nel gioco, prima di ogni sfida.
+Il gioco si può giocare anche con un controller PlayStation o Xbox. Tra parentesi trovi i comandi del controller, con i nomi PlayStation. Su Xbox: croce è A, cerchio è B, quadrato è X, triangolo è Y, L1 è LB, R1 è RB, L2 è LT, R2 è RT. Nei menu e nei cristalli guida croce conferma e cerchio torna indietro. Anche i tasti del controller si possono cambiare dalla guida ai comandi. Premendo share e options insieme si attiva la prova controller: ogni tasto dice il suo nome e cosa fa.
 
   Movimento
 
-freccia su, cammini avanti.
-freccia giù, cammini indietro.
-freccia sinistra, giri verso sinistra.
-freccia destra, giri verso destra.
-shift tenuto premuto, corri.
-shift più freccia sinistra o destra, ti giri di 90 gradi.
-B, ascolti dove ti trovi (la superficie o la piattaforma sotto le zampette).
-0, apri lo zaino.
-9, nome del livello.
+freccia su (analogico sinistro su), cammini avanti.
+freccia giù (analogico sinistro giù), cammini indietro.
+freccia sinistra (analogico sinistro a sinistra), giri verso sinistra.
+freccia destra (analogico sinistro a destra), giri verso destra.
+shift tenuto premuto (L2 tenuto), corri.
+shift più freccia sinistra o destra (L2 più analogico sinistro a sinistra o a destra), ti giri di 90 gradi.
+B (analogico destro giù), ascolti dove ti trovi (la superficie o la piattaforma sotto le zampette).
+0 (options), apri lo zaino.
+9 (croce direzionale su), nome del livello.
 
   Scansione
 
 gli interagibili vanno dal più vicino al più lontano.
-H, interagibile precedente.
-J, interagibile successivo.
-shift H, oggetto da osservare precedente.
-shift J, oggetto da osservare successivo.
-I, amico precedente.
-O, amico successivo.
-G, ti giri verso l'ultimo bersaglio scansionato, indicando quanto è distante.
-R, ripete la posizione dell'ultimo bersaglio scansionato, aggiornata su distanza e direzione. R è la versione manuale di G: non ti gira, ma ti dà più informazioni.
-F, interagisci.
-C, dialoghi con i personaggi.
-L, ripete l'ultimo dialogo sentito.
-shift 0, descrizione del personaggio più vicino.
-shift P, i tuoi cristalli trasparenti.
+H (L1 più analogico destro a sinistra), interagibile precedente.
+J (L1 più analogico destro a destra), interagibile successivo.
+shift H (L2 più L1 più analogico destro a sinistra), oggetto da osservare precedente.
+shift J (L2 più L1 più analogico destro a destra), oggetto da osservare successivo.
+I (R1 più croce), amico precedente.
+O (R1 più cerchio), amico successivo.
+G (R3, cioè premi l'analogico destro), ti giri verso l'ultimo bersaglio scansionato, indicando quanto è distante.
+R (L1 più R3), ripete la posizione dell'ultimo bersaglio scansionato, aggiornata su distanza e direzione. R è la versione manuale di G: non ti gira, ma ti dà più informazioni.
+F (cerchio), interagisci.
+C (L1 più cerchio), dialoghi con i personaggi.
+L (L1 più R1 più cerchio), ripete l'ultimo dialogo sentito.
+shift 0 (L2 più options), descrizione del personaggio più vicino.
+shift P (L2 più L1 più R1 più croce), i tuoi cristalli trasparenti.
 
   Piattaforme
 
-N, piattaforma precedente.
-M, piattaforma successiva.
-V, dice se l'ultima piattaforma scansionata è raggiungibile con un salto, una planata o una semiplanata. si riferisce al bordo della piattaforma.
-S, guardi avanti.
-X, guardi a destra.
-Z, guardi a sinistra.
+N (L1 più analogico destro giù), piattaforma precedente.
+M (L1 più analogico destro su), piattaforma successiva.
+V (L1 più triangolo), dice se l'ultima piattaforma scansionata è raggiungibile con un salto, una planata o una semiplanata. si riferisce al bordo della piattaforma.
+S (analogico destro su), guardi avanti.
+X (analogico destro a destra), guardi a destra.
+Z (analogico destro a sinistra), guardi a sinistra.
 quando S, X e Z dicono "salto" o "planata", si riferiscono al centro della piattaforma, non al bordo come V.
-virgola, checkpoint precedente (nei livelli sentiero).
-punto, checkpoint successivo (nei livelli sentiero), oppure la tua posizione rispetto al centro del livello se non ci sono checkpoint.
+virgola (croce direzionale sinistra), checkpoint precedente (nei livelli sentiero).
+punto (croce direzionale destra), checkpoint successivo (nei livelli sentiero), oppure la tua posizione rispetto al centro del livello se non ci sono checkpoint.
 un tic tic basso indica che subito alle tue spalle c'è il bordo della piattaforma, un tic tic alto che il bordo è subito davanti a te.
 
   Salti e planate
 
-spazio, salto sul posto.
-spazio più freccia su, salto in avanti.
+spazio (croce), salto sul posto.
+spazio più freccia su (croce più analogico sinistro su), salto in avanti.
 aggiungi shift per battere le ali.
 tieni premuto shift prima di saltare in avanti per planare lontano.
 lascia shift per interrompere la planata a mezz'aria.
-freccia giù, scendi più a picco (meglio di no).
+freccia giù (analogico sinistro giù), scendi più a picco (meglio di no).
 per salti e planate conviene tenere premuto spazio finché non atterri, poi rilasciarlo subito.
 più una piattaforma è alta, meno distanza serve per arrivarci: parti dalle più basse, di solito a 1 metro o meno, e sali su quelle vicine più alte.
 
   Combattimento
 
-E, attacco base.
-shift E, attacco volante ad area.
-T, parata (1 secondo, si potenzia alla forgia).
-Q, nemico più vicino.
-shift Q, agganci il nemico più vicino.
-shift V, sganci.
+E (quadrato), attacco base.
+shift E (L2 più quadrato), attacco volante ad area.
+T (R2), parata (1 secondo, si potenzia alla forgia).
+Q (L1 più quadrato), nemico più vicino.
+shift Q (L2 più L1 più quadrato), agganci il nemico più vicino.
+shift V (L2 più L1 più triangolo), sganci.
 una volta agganciato, le frecce sinistra e destra ti fanno girare attorno al nemico. con shift giri più veloce, indispensabile con i boss.
-Y, nemico precedente.
-U, nemico successivo.
-W, proiettili.
-shift W, proiettile caricato.
-A, elemento principale (fuoco), quando avrai i proiettili elementali.
-A più frecce, scorri gli altri elementi.
-K, i tuoi punti vita.
-P, usi il consumabile attivo.
+Y (R1 più quadrato), nemico precedente.
+U (R1 più triangolo), nemico successivo.
+W (triangolo), proiettili.
+shift W (L2 più triangolo), proiettile caricato.
+A (L1 più R1 più triangolo), elemento principale (fuoco), quando avrai i proiettili elementali.
+A più frecce (L1 più R1 più triangolo tenuti, più analogico sinistro), scorri gli altri elementi.
+K (L1 più croce), i tuoi punti vita.
+P (L2 più L1 più croce), usi il consumabile attivo.
 
   Salvataggio
 
-F7, salva la partita.
-F9, carica la partita.
-E, sullo slot scelto, esporti il file di salvataggio (si può importare in qualunque partita di Poffy Adventure).
+F7 (L2 più share), salva la partita.
+F9 (share), carica la partita.
+E (quadrato), sullo slot scelto, esporti il file di salvataggio (si può importare in qualunque partita di Poffy Adventure).
 
   Voce e volume
 
-shift 9, passi alla voce di Windows (o torni allo screen reader).
+shift 9 (L2 più croce direzionale su), passi alla voce di Windows (o torni allo screen reader).
 control più shift più 9, attiva e disattiva l'addon di NVDA.
 1, voce più lenta.
 2, voce più veloce.

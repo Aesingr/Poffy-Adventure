@@ -13,87 +13,88 @@ Alternatively, by pressing shift 9 you can play with the Windows voice.
 
 In the game you discover the controls through the guide crystals. You can read them again from the backpack, in the diary, under "controls guide": pressing enter on a control lets you change its key. The last item of the guide puts all keys back to the original ones.
 The controls of the minigames and bosses are in the guide crystals scattered around the game, before each challenge.
+You can also play with a PlayStation or Xbox controller. The controller commands are in brackets, with PlayStation names. On Xbox: cross is A, circle is B, square is X, triangle is Y, L1 is LB, R1 is RB, L2 is LT, R2 is RT. In menus and guide crystals cross confirms and circle goes back. Controller buttons can also be changed from the controls guide. Pressing share and options together turns on the controller test: every button says its name and what it does.
 
   Movement
 
-up arrow, walk forward.
-down arrow, walk backward.
-left arrow, turn left.
-right arrow, turn right.
-shift held down, run.
-shift plus left or right arrow, turn 90 degrees.
-B, hear where you are (the surface or platform under your little paws).
-0, open the backpack.
-9, name of the level.
+up arrow (left stick up), walk forward.
+down arrow (left stick down), walk backward.
+left arrow (left stick left), turn left.
+right arrow (left stick right), turn right.
+shift held down (L2 held), run.
+shift plus left or right arrow (L2 plus left stick left or right), turn 90 degrees.
+B (right stick down), hear where you are (the surface or platform under your little paws).
+0 (options), open the backpack.
+9 (d-pad up), name of the level.
 
   Scanning
 
 interactables go from nearest to farthest.
-H, previous interactable.
-J, next interactable.
-shift H, previous object to observe.
-shift J, next object to observe.
-I, previous friend.
-O, next friend.
-G, turn toward the last scanned target, telling you how far it is.
-R, repeats the position of the last scanned target, updated with distance and direction. R is the manual version of G: it doesn't turn you, but it gives you more information.
-F, interact.
-C, talk to the characters.
-L, repeats the last dialogue you heard.
-shift 0, description of the nearest character.
-shift P, your clear crystals.
+H (L1 plus right stick left), previous interactable.
+J (L1 plus right stick right), next interactable.
+shift H (L2 plus L1 plus right stick left), previous object to observe.
+shift J (L2 plus L1 plus right stick right), next object to observe.
+I (R1 plus cross), previous friend.
+O (R1 plus circle), next friend.
+G (R3, that is pressing the right stick), turn toward the last scanned target, telling you how far it is.
+R (L1 plus R3), repeats the position of the last scanned target, updated with distance and direction. R is the manual version of G: it doesn't turn you, but it gives you more information.
+F (circle), interact.
+C (L1 plus circle), talk to the characters.
+L (L1 plus R1 plus circle), repeats the last dialogue you heard.
+shift 0 (L2 plus options), description of the nearest character.
+shift P (L2 plus L1 plus R1 plus cross), your clear crystals.
 
   Platforms
 
-N, previous platform.
-M, next platform.
-V, tells you whether the last scanned platform can be reached with a jump, a glide or a half glide. it refers to the edge of the platform.
-S, look ahead.
-X, look right.
-Z, look left.
+N (L1 plus right stick down), previous platform.
+M (L1 plus right stick up), next platform.
+V (L1 plus triangle), tells you whether the last scanned platform can be reached with a jump, a glide or a half glide. it refers to the edge of the platform.
+S (right stick up), look ahead.
+X (right stick right), look right.
+Z (right stick left), look left.
 when S, X and Z say "jump" or "glide", they refer to the center of the platform, not to the edge like V.
-comma, previous checkpoint (in path levels).
-period, next checkpoint (in path levels), or your position relative to the center of the level if there are no checkpoints.
+comma (d-pad left), previous checkpoint (in path levels).
+period (d-pad right), next checkpoint (in path levels), or your position relative to the center of the level if there are no checkpoints.
 a low tick tick means the edge of the platform is right behind you, a high tick tick means the edge is right in front of you.
 
   Jumps and glides
 
-space, jump on the spot.
-space plus up arrow, jump forward.
+space (cross), jump on the spot.
+space plus up arrow (cross plus left stick up), jump forward.
 add shift to flap your wings.
 hold shift before jumping forward to glide far.
 release shift to stop the glide in mid-air.
-down arrow, drop down more steeply (better not).
+down arrow (left stick down), drop down more steeply (better not).
 for jumps and glides it's best to hold space down until you land, then release it right away.
 the higher a platform is, the less distance you need to reach it: start from the lowest ones, usually 1 meter or less, and climb onto the nearby higher ones.
 
   Combat
 
-E, basic attack.
-shift E, flying area attack.
-T, parry (1 second, it gets stronger at the forge).
-Q, nearest enemy.
-shift Q, lock on to the nearest enemy.
-shift V, unlock.
+E (square), basic attack.
+shift E (L2 plus square), flying area attack.
+T (R2), parry (1 second, it gets stronger at the forge).
+Q (L1 plus square), nearest enemy.
+shift Q (L2 plus L1 plus square), lock on to the nearest enemy.
+shift V (L2 plus L1 plus triangle), unlock.
 once locked on, the left and right arrows make you circle around the enemy. with shift you circle faster, essential against bosses.
-Y, previous enemy.
-U, next enemy.
-W, projectiles.
-shift W, charged projectile.
-A, main element (fire), once you have elemental projectiles.
-A plus arrows, scroll through the other elements.
-K, your health points.
-P, use the active consumable.
+Y (R1 plus square), previous enemy.
+U (R1 plus triangle), next enemy.
+W (triangle), projectiles.
+shift W (L2 plus triangle), charged projectile.
+A (L1 plus R1 plus triangle), main element (fire), once you have elemental projectiles.
+A plus arrows (L1 plus R1 plus triangle held, plus left stick), scroll through the other elements.
+K (L1 plus cross), your health points.
+P (L2 plus L1 plus cross), use the active consumable.
 
   Saving
 
-F7, save the game.
-F9, load the game.
-E, on the chosen slot, export the save file (it can be imported into any Poffy Adventure game).
+F7 (L2 plus share), save the game.
+F9 (share), load the game.
+E (square), on the chosen slot, export the save file (it can be imported into any Poffy Adventure game).
 
   Voice and volume
 
-shift 9, switch to the Windows voice (or back to the screen reader).
+shift 9 (L2 plus d-pad up), switch to the Windows voice (or back to the screen reader).
 control plus shift plus 9, turn the NVDA add-on on and off.
 1, slower voice.
 2, faster voice.
