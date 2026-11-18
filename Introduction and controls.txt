@@ -117,20 +117,19 @@ the music box — active: angry seagull at Starry Beach. Complete: by giving him
 the guardian of the shallows — active: Tritri the little crab at Starry Beach. Complete: by giving him the guardian's claw.
 the sailor bren — active: Bren the walrus at Starry Beach. Complete: by bringing the first three scales to the ruins of the big boat.
 the fallen stars — active: starfish at Starry Beach. Complete: by collecting all 5 stars within the time limit.
-grandma's diary — active: by interacting with the little cabinet in Grandma's House. Complete: by forcing the sealed drawer.
 grandma's little cup — active: the mouse shop assistant at the Poffy Shop. Complete: by bringing him the supreme little cup.
 the master's xylophone — active: Maestro Trillo at the Poffy Shop. Complete: by playing the melodies on the xylophone.
 the booble fruit champion — active: Bombolo the braggart at the Gnignu Tavern. Complete: by finishing all 77 levels of booble fruit.
 groncy's slippers — active: Groncy at the Tavern. Complete: by bringing him the slippers he lost in the woods.
 catch the spudmole — active: Greppo at the Greenhouse. Complete: by winning the spudmole minigame on medium-hard.
-vael's hunt — active: Vael at the tavern. Complete: by investigating the 3 sightings. Three times. How boring. All three start at the tavern. (main quest, all three)
+vael's hunt — active: Vael at the tavern in Poffy Fruh Town. Complete: by investigating the 3 sightings. Three times. How boring. They start one after another at the tavern. (main quest, all three)
+gigly digests — active: Gigly the otter in the Desert. Complete: by giving him a date. (main quest)
+the dry oasis — active: the dried-up pool in the Desert. Complete: by pouring a jar of water.
+the treasure under the sand — active: "map" in the Desert. Complete: by digging up all 3 spots marked on the map.
 fruh's call — active: Vael at the tavern. Complete: by reaching the plain and choosing, at the crossroads, to leave for the lands of the dissidents. (main quest)
 vael's trial — active: Vael on the plain. Complete: by clearing the plain of the crazed creatures. (main quest)
 the shepherd's sheep — active: old shepherd on the plain. Complete: by settling the 3 tame crazed creatures without killing them.
 the two sgambettos — active: sgambetto on the plain. Complete: by winning the race to his brother within the time limit.
-gigly digests — active: Gigly the otter in the Desert. Complete: by giving him a date.
-the dry oasis — active: the dried-up pool in the Desert. Complete: by pouring a jar of water.
-the treasure under the sand — active: "map" in the Desert. Complete: by digging up all 3 spots marked on the map.
 the monitor lizards' challenge — active: Rampa the monitor lizard in the Land of the Dissidents. Complete: by beating Vampa in the forest race and then Rampa on the undertow track. (main quest)
 the salt ring tournament — active: Bombarda the kangaroo at the Salt Ring. Complete: by winning the 3 matches up to Sandro the Gloomy. Sandro my father. (main quest)
 the clash with sgarra — active: Sgarra the buzzard at the Threshold of the Third Land. Complete: by beating Sgarra in her ring. (main quest)
@@ -144,6 +143,7 @@ rowing in time — active: Bren on the Boat Trip. Complete: by rowing in time fo
 the dissidents' bottles — active: Cozza the repentant on the boat trip, after the battle. Complete: by fishing the 5 bottles from the deck. (main quest)
 a new acquaintance — active: Fruh at Little Beach. Complete: go to the library. (main quest)
 the books of the great ones — active: ulla, in the library. Complete: by reading the 3 summaries of the books of the great ones, then having a chat with the innkeeper at the tavern. (main quest)
+grandma's diary — active: by interacting with the cupboard in Grandma's House in Poffy Fruh Town. Complete: by forcing the sealed drawer. (main quest)
 the hole in the tower — active: the innkeeper, after reading the books. Complete: by going down the hole under the Clock Tower. (main quest)
 stop ricu — active: Rashasaak, after the revelation about Ricu. Complete: by reaching Starry Beach for the message from the sea. (main quest)
 windball — active: grecale, on the island of the winds. Complete: by winning the windball match and so unlocking the forge of the winds. (main quest)

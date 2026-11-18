@@ -132,20 +132,19 @@ la scatola musicale — attiva: gabbiano arrabbiato a Spiaggia Stellare. Complet
 il guardiano della secca — attiva: Tritri il granchietto a Spiaggia Stellare. Completa: consegnando la chela del guardiano.
 il marinaio bren — attiva: Bren il tricheco a Spiaggia Stellare. Completa: portando le prime tre scaglie ai ruderi della grande barca.
 le stelle cadute — attiva: stella marina a Spiaggia Stellare. Completa: raccogliendo tutte e 5 le stelle entro il tempo.
-il diario della nonna — attiva: interagendo con l'armadietto nella Casa della Nonna. Completa: forzando il cassetto sigillato.
 la tazzina della nonna — attiva: commesso topolino al Poffy Shop. Completa: portandogli la tazzina suprema.
 lo xilofono del maestro — attiva: Maestro Trillo al Poffy Shop. Completa: riproducendo le melodie allo xilofono.
 il campione di booble fruit — attiva: Bombolo lo sbruffo in Osteria del Gnignu. Completa: finendo tutti i 77 livelli di booble fruit.
 • le ciabatte di groncy — ativa: Groncy in Osteria. completa: portandogli le ciabatte perse nel bosco.
 acchiappa la patatalpa — attiva: Greppo alla Serra. Completa: vincendo il minigioco delle patatalpe a livello medio difficile.
-la caccia di vael — attiva: Vael in osteria. Completa: indagando i 3 avvistamenti. Per tre volte. che noia. Si attivano una dopo l'altra in osteria. (quest principale, tutte e tre)
+la caccia di vael — attiva: Vael in osteria a Poffy Fruh Town. Completa: indagando i 3 avvistamenti. Per tre volte. che noia. Si attivano una dopo l'altra in osteria. (quest principale, tutte e tre)
+gigly digerisce — attiva: la lontra Gigly al Deserto. Completa: dandogli un dattero. (quest principale)
+l'oasi secca — attiva: la pozza prosciugata al Deserto. Completa: versando un'anfora d'acqua.
+il tesoro sotto la sabbia — attiva: "mappa" al Deserto. Completa: scavando tutti e 3 i punti indicati sulla mappa.
 la chiamata di fruh — attiva: Vael in osteria. Completa: raggiungendo la pianura e scegliendo al bivio di partire per le terre dei dissidenti. (quest principale)
 la prova di vael — attiva: Vael in pianura. Completa: ripulendo la pianura dagli impazziti. (quest principale)
 le pecore del pastore — attiva: vecchio pastore in pianura. Completa: sistemando i 3 impazziti mansueti senza ucciderli.
 i due sgambetti — attiva: sgambetto in pianura. Completa: vincendo la corsa fino al fratello entro il tempo.
-gigly digerisce — attiva: la lontra Gigly al Deserto. Completa: dandogli un dattero.
-l'oasi secca — attiva: la pozza prosciugata al Deserto. Completa: versando un'anfora d'acqua.
-il tesoro sotto la sabbia — attiva: "mappa" al Deserto. Completa: scavando tutti e 3 i punti indicati sulla mappa.
 la sfida dei varani — attiva: Rampa il varano alla Terra dei Dissidenti. Completa: battendo Vampa nella gara della foresta e poi Rampa nella pista della risacca. (quest principale)
 il torneo del ring di sale — attiva: Bombarda la canguro al Ring di Sale. Completa: vincendo i 3 incontri fino a Sandro il Mesto. Sandro mio padre. (quest principale)
 lo scontro con sgarra — attiva: Sgarra la poiana alla Soglia della Terza Terra. Completa: battendo Sgarra sul suo ring. (quest principale)
@@ -159,6 +158,7 @@ la remata a tempo — attiva: Bren nel Viaggio in barca. Completa: remando a tem
 le bottiglie dei dissidenti — attiva: Cozza la pentita nel viaggio in barca, dopo la battaglia. Completa: pescando le 5 bottiglie dal ponte. (quest principale)
 nuova conoscenza — attiva: Fruh in spiaggia piccola. completa: vai in biblioteca. (quest principale)
 i libri dei grandi — attiva: ulla, in biblioteca. Completa: leggendo i 3 riassunti dei libri dei grandi, poi facendo una chiacchierata con l'oste in osteria. (quest principale)
+il diario della nonna — attiva: interagendo con l'armadietto nella Casa della Nonna a Poffy Fruh Town. Completa: forzando il cassetto sigillato. (quest principale)
 il buco nella torre — attiva: l'oste, dopo aver letto i libri. Completa: scendendo nel buco sotto la Torre dell'Orologio. (quest principale)
 fermare ricu — attiva: Rashasaak, dopo la rivelazione su Ricu. Completa: raggiungendo Spiaggia Stellare per il messaggio dal mare. (quest principale)
 pallavento — attiva: grecale, su isola dei venti. Completa: vincendo la partita di pallavento e sbloccando così la forgia dei venti. (quest principale)
