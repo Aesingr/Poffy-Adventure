@@ -39,7 +39,7 @@ O (R1 più cerchio), amico successivo.
 G (R3, cioè premi l'analogico destro), ti giri verso l'ultimo bersaglio scansionato, indicando quanto è distante.
 R (L1 più R3), ripete la posizione dell'ultimo bersaglio scansionato, aggiornata su distanza e direzione. R è la versione manuale di G: non ti gira, ma ti dà più informazioni.
 F (cerchio), interagisci.
-C (L1 più cerchio), dialoghi con i personaggi.
+C (L1 più cerchio), dialoghi con i personaggi. C serve anche per andare avanti nelle scene e nei dialoghi: quando nessun altro tasto funziona, premi C per proseguire.
 L (L1 più R1 più cerchio), ripete l'ultimo dialogo sentito.
 shift 0 (L2 più options), descrizione del personaggio più vicino.
 shift P (L2 più L1 più R1 più croce), i tuoi cristalli trasparenti.
