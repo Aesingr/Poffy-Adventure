@@ -165,6 +165,24 @@ pallavento — attiva: grecale, su isola dei venti. Completa: vincendo la partit
 ripristina l'albero sacro — attiva: kasura, su isola dell'albero sacro. Completa: attivando gli altari con il proiettile di energia, sbloccato alla forgia dell'albero sacro. (quest principale)
 la fine di un viaggio — attiva e completa tramite la scena della dottoressa ranocchia (finale normale). (quest principale)
 
+  LE 14 SCAGLIE
+
+1 - scaglia di zaffiro - a Spiaggia Piccola, in cima all'ananasso.
+2 - scaglia d'ametista - a Spiaggia Grande, in cima alla roccia alta.
+3 - scaglia di rubino - a Spiaggia Stellare, in cima alla stella rossa.
+4 - scaglia marina - a Spiaggia Grande, te la regala swampa il delfino in cambio del cristallo azzurro.
+5 - scaglia stellare - a Spiaggia Grande, nascosta in cima alla roccia chi c'è.
+6 - scaglia di rosmarino - nella cassaforte del Poffy Shop.
+7 - scaglia perlacea - sul Monte Innevato, sul nono gradino.
+8 - scaglia smeraldina - in Pianura Verde, in cima alla torretta smeralda.
+9 - scaglia verde fiamma - in Pianura Verde, in cima alla vetta fiammeggiante.
+10 - scaglia di cenere - battendo Vampa nella gara su skate della foresta, alla Terra dei Dissidenti.
+11 - scaglia arcobaleno - finendo una gara contro Vertigo sull'arcobaleno roccioso.
+12 - scaglia salina - al Ring di Sale, in cima alla guglia di salgemma.
+13 - scaglia d'argento - nella Fossa delle Orde, dopo aver sconfitto tutti gli avversari.
+14 - scaglia di cristallo - vincendo il duello tra navicelle contro favilla e brace, al laboratorio di Sciara.
+15 - ...
+
   RINGRAZIAMENTI
 
 Ringrazio chi ha testato il gioco e mi ha dato suggerimenti, specialmente per le missioni secondarie che io sono troppo pigro per completare. Un ringraziamento speciale a chi ha già finito il gioco. E un grazie alla mia ragazza per la voce carina di Poffy. 
