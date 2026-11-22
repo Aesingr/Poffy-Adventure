@@ -73,6 +73,11 @@ e (on the chosen slot), exports the save file (it can be imported into any Poffy
 6, game volume up.
 7, music volume down.
 8, music volume up.
+shift 5, platform in front volume down (default value: 0.08).
+shift 6, platform in front volume up.
+shift 7, platform to the side volume down (default value: 0.05).
+shift 8, platform to the side volume up.
+the commands from shift 5 to shift 8 only work after interacting with "energy to the plants" on Little Beach.
 
   QUEST LIST
 

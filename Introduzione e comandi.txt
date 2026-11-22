@@ -105,6 +105,11 @@ I comandi 1, 2, 3 e 4 non funzionano con NVDA attivo.
 6, volume gioco su.
 7, volume musica giù.
 8, volume musica su.
+shift 5, volume giù piattaforma di fronte (valore standard: 0.08).
+shift 6, volume su piattaforma di fronte.
+shift 7, volume giù piattaforma di lato (valore standard: 0.05).
+shift 8, volume su piattaforma di lato.
+i comandi da shift 5 a shift 8 funzionano solo dopo aver interagito con "energia alle piante" in Spiaggia Piccola.
 
   CONSIGLI VARI
 
